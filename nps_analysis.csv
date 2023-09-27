@@ -1,0 +1,2001 @@
+RecordNo,Województwo,Area,Company,Recommendation,Score,Wiek,Wykształcenie,Funkcja,detrac,neutral,promotor,total
+1136,dolnośląskie,100-250 Ha,Jablka,4,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+1136,dolnośląskie,100-250 Ha,Truskawki,10,Promotor,30-39,Średnie techniczne,Właściciel,0,0,1,1
+1136,dolnośląskie,100-250 Ha,Sliwki,1,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+1136,dolnośląskie,100-250 Ha,Gruszki,NA,NA,30-39,Średnie techniczne,Właściciel,NA,NA,NA,1
+1136,dolnośląskie,100-250 Ha,Wisnie,2,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+1136,dolnośląskie,100-250 Ha,Borowki,NA,NA,30-39,Średnie techniczne,Właściciel,NA,NA,NA,1
+1136,dolnośląskie,100-250 Ha,Porzeczki,8,Neutral,30-39,Średnie techniczne,Właściciel,0,1,0,1
+1136,dolnośląskie,100-250 Ha,Maliny,NA,NA,30-39,Średnie techniczne,Właściciel,NA,NA,NA,1
+1136,dolnośląskie,100-250 Ha,Aronia,8,Neutral,30-39,Średnie techniczne,Właściciel,0,1,0,1
+1136,dolnośląskie,100-250 Ha,Jagody,NA,NA,30-39,Średnie techniczne,Właściciel,NA,NA,NA,1
+1143,dolnośląskie,100-250 Ha,Jablka,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1143,dolnośląskie,100-250 Ha,Truskawki,5,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1143,dolnośląskie,100-250 Ha,Sliwki,9,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1143,dolnośląskie,100-250 Ha,Gruszki,5,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1143,dolnośląskie,100-250 Ha,Wisnie,8,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1143,dolnośląskie,100-250 Ha,Borowki,4,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1143,dolnośląskie,100-250 Ha,Porzeczki,9,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1143,dolnośląskie,100-250 Ha,Maliny,1,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1143,dolnośląskie,100-250 Ha,Aronia,9,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1143,dolnośląskie,100-250 Ha,Jagody,7,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1145,dolnośląskie,50-100 Ha,Jablka,10,Promotor,40-49,Wyższe,Właściciel,0,0,1,1
+1145,dolnośląskie,50-100 Ha,Truskawki,8,Neutral,40-49,Wyższe,Właściciel,0,1,0,1
+1145,dolnośląskie,50-100 Ha,Sliwki,5,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+1145,dolnośląskie,50-100 Ha,Gruszki,9,Promotor,40-49,Wyższe,Właściciel,0,0,1,1
+1145,dolnośląskie,50-100 Ha,Wisnie,2,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+1145,dolnośląskie,50-100 Ha,Borowki,9,Promotor,40-49,Wyższe,Właściciel,0,0,1,1
+1145,dolnośląskie,50-100 Ha,Porzeczki,4,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+1145,dolnośląskie,50-100 Ha,Maliny,10,Promotor,40-49,Wyższe,Właściciel,0,0,1,1
+1145,dolnośląskie,50-100 Ha,Aronia,9,Promotor,40-49,Wyższe,Właściciel,0,0,1,1
+1145,dolnośląskie,50-100 Ha,Jagody,9,Promotor,40-49,Wyższe,Właściciel,0,0,1,1
+1151,dolnośląskie,100-250 Ha,Jablka,6,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1151,dolnośląskie,100-250 Ha,Truskawki,9,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1151,dolnośląskie,100-250 Ha,Sliwki,4,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1151,dolnośląskie,100-250 Ha,Gruszki,4,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1151,dolnośląskie,100-250 Ha,Wisnie,4,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1151,dolnośląskie,100-250 Ha,Borowki,9,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1151,dolnośląskie,100-250 Ha,Porzeczki,2,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1151,dolnośląskie,100-250 Ha,Maliny,10,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1151,dolnośląskie,100-250 Ha,Aronia,9,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1151,dolnośląskie,100-250 Ha,Jagody,10,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1154,dolnośląskie,100-250 Ha,Jablka,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1154,dolnośląskie,100-250 Ha,Truskawki,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1154,dolnośląskie,100-250 Ha,Sliwki,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1154,dolnośląskie,100-250 Ha,Gruszki,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1154,dolnośląskie,100-250 Ha,Wisnie,6,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1154,dolnośląskie,100-250 Ha,Borowki,NA,NA,50+,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+1154,dolnośląskie,100-250 Ha,Porzeczki,6,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1154,dolnośląskie,100-250 Ha,Maliny,1,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1154,dolnośląskie,100-250 Ha,Aronia,6,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1154,dolnośląskie,100-250 Ha,Jagody,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Jablka,5,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Truskawki,4,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Sliwki,10,Promotor,30-39,Średnie techniczne,Główny agronom,0,0,1,1
+1167,dolnośląskie,5-25 Ha,Gruszki,3,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Wisnie,9,Promotor,30-39,Średnie techniczne,Główny agronom,0,0,1,1
+1167,dolnośląskie,5-25 Ha,Borowki,3,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Porzeczki,4,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Maliny,3,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1167,dolnośląskie,5-25 Ha,Aronia,8,Neutral,30-39,Średnie techniczne,Główny agronom,0,1,0,1
+1167,dolnośląskie,5-25 Ha,Jagody,2,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Jablka,3,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Truskawki,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+1191,kujawsko-pomorskie,5-25 Ha,Sliwki,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Gruszki,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+1191,kujawsko-pomorskie,5-25 Ha,Wisnie,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Borowki,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Porzeczki,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Maliny,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+1191,kujawsko-pomorskie,5-25 Ha,Aronia,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+1191,kujawsko-pomorskie,5-25 Ha,Jagody,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+1203,kujawsko-pomorskie,100-250 Ha,Jablka,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1203,kujawsko-pomorskie,100-250 Ha,Truskawki,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1203,kujawsko-pomorskie,100-250 Ha,Sliwki,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1203,kujawsko-pomorskie,100-250 Ha,Gruszki,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1203,kujawsko-pomorskie,100-250 Ha,Wisnie,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1203,kujawsko-pomorskie,100-250 Ha,Borowki,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1203,kujawsko-pomorskie,100-250 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+1203,kujawsko-pomorskie,100-250 Ha,Maliny,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1203,kujawsko-pomorskie,100-250 Ha,Aronia,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1203,kujawsko-pomorskie,100-250 Ha,Jagody,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Jablka,9,Promotor,<30,Średnie ogólne,Główny agronom,0,0,1,1
+1218,kujawsko-pomorskie,25-50 Ha,Truskawki,NA,NA,<30,Średnie ogólne,Główny agronom,NA,NA,NA,1
+1218,kujawsko-pomorskie,25-50 Ha,Sliwki,7,Neutral,<30,Średnie ogólne,Główny agronom,0,1,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Gruszki,9,Promotor,<30,Średnie ogólne,Główny agronom,0,0,1,1
+1218,kujawsko-pomorskie,25-50 Ha,Wisnie,7,Neutral,<30,Średnie ogólne,Główny agronom,0,1,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Borowki,4,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Porzeczki,8,Neutral,<30,Średnie ogólne,Główny agronom,0,1,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Maliny,2,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Aronia,1,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1218,kujawsko-pomorskie,25-50 Ha,Jagody,9,Promotor,<30,Średnie ogólne,Główny agronom,0,0,1,1
+1221,kujawsko-pomorskie,5-25 Ha,Jablka,5,Detractor,30-39,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1221,kujawsko-pomorskie,5-25 Ha,Truskawki,9,Promotor,30-39,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1221,kujawsko-pomorskie,5-25 Ha,Sliwki,8,Neutral,30-39,Średnie techniczne,Agronom – ekspert,0,1,0,1
+1221,kujawsko-pomorskie,5-25 Ha,Gruszki,3,Detractor,30-39,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1221,kujawsko-pomorskie,5-25 Ha,Wisnie,7,Neutral,30-39,Średnie techniczne,Agronom – ekspert,0,1,0,1
+1221,kujawsko-pomorskie,5-25 Ha,Borowki,10,Promotor,30-39,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1221,kujawsko-pomorskie,5-25 Ha,Porzeczki,7,Neutral,30-39,Średnie techniczne,Agronom – ekspert,0,1,0,1
+1221,kujawsko-pomorskie,5-25 Ha,Maliny,10,Promotor,30-39,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1221,kujawsko-pomorskie,5-25 Ha,Aronia,3,Detractor,30-39,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1221,kujawsko-pomorskie,5-25 Ha,Jagody,2,Detractor,30-39,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Jablka,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Truskawki,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Sliwki,NA,NA,50+,Średnie techniczne,Właściciel,NA,NA,NA,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Gruszki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Wisnie,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Porzeczki,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Maliny,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Aronia,NA,NA,50+,Średnie techniczne,Właściciel,NA,NA,NA,1
+1233,kujawsko-pomorskie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1234,kujawsko-pomorskie,100-250 Ha,Jablka,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+1234,kujawsko-pomorskie,100-250 Ha,Truskawki,7,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+1234,kujawsko-pomorskie,100-250 Ha,Sliwki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+1234,kujawsko-pomorskie,100-250 Ha,Gruszki,7,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+1234,kujawsko-pomorskie,100-250 Ha,Wisnie,4,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+1234,kujawsko-pomorskie,100-250 Ha,Borowki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+1234,kujawsko-pomorskie,100-250 Ha,Porzeczki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+1234,kujawsko-pomorskie,100-250 Ha,Maliny,8,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+1234,kujawsko-pomorskie,100-250 Ha,Aronia,5,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+1234,kujawsko-pomorskie,100-250 Ha,Jagody,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+1236,kujawsko-pomorskie,50-100 Ha,Jablka,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1236,kujawsko-pomorskie,50-100 Ha,Truskawki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1236,kujawsko-pomorskie,50-100 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1236,kujawsko-pomorskie,50-100 Ha,Gruszki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1236,kujawsko-pomorskie,50-100 Ha,Wisnie,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1236,kujawsko-pomorskie,50-100 Ha,Borowki,3,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1236,kujawsko-pomorskie,50-100 Ha,Porzeczki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1236,kujawsko-pomorskie,50-100 Ha,Maliny,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1236,kujawsko-pomorskie,50-100 Ha,Aronia,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1236,kujawsko-pomorskie,50-100 Ha,Jagody,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1256,lubelskie,100-250 Ha,Jablka,10,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1256,lubelskie,100-250 Ha,Truskawki,4,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1256,lubelskie,100-250 Ha,Sliwki,1,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1256,lubelskie,100-250 Ha,Gruszki,7,Neutral,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1256,lubelskie,100-250 Ha,Wisnie,2,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1256,lubelskie,100-250 Ha,Borowki,8,Neutral,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1256,lubelskie,100-250 Ha,Porzeczki,9,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1256,lubelskie,100-250 Ha,Maliny,1,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1256,lubelskie,100-250 Ha,Aronia,9,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1256,lubelskie,100-250 Ha,Jagody,10,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1261,lubelskie,25-50 Ha,Jablka,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1261,lubelskie,25-50 Ha,Truskawki,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1261,lubelskie,25-50 Ha,Sliwki,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1261,lubelskie,25-50 Ha,Gruszki,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1261,lubelskie,25-50 Ha,Wisnie,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1261,lubelskie,25-50 Ha,Borowki,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1261,lubelskie,25-50 Ha,Porzeczki,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1261,lubelskie,25-50 Ha,Maliny,3,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1261,lubelskie,25-50 Ha,Aronia,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1261,lubelskie,25-50 Ha,Jagody,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1271,lubelskie,5-25 Ha,Jablka,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1271,lubelskie,5-25 Ha,Truskawki,4,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1271,lubelskie,5-25 Ha,Sliwki,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1271,lubelskie,5-25 Ha,Gruszki,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1271,lubelskie,5-25 Ha,Wisnie,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1271,lubelskie,5-25 Ha,Borowki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1271,lubelskie,5-25 Ha,Porzeczki,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1271,lubelskie,5-25 Ha,Maliny,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1271,lubelskie,5-25 Ha,Aronia,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1271,lubelskie,5-25 Ha,Jagody,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1272,lubelskie,25-50 Ha,Jablka,2,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+1272,lubelskie,25-50 Ha,Truskawki,9,Promotor,40-49,Wyższe,Agronom – ekspert,0,0,1,1
+1272,lubelskie,25-50 Ha,Sliwki,6,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+1272,lubelskie,25-50 Ha,Gruszki,5,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+1272,lubelskie,25-50 Ha,Wisnie,9,Promotor,40-49,Wyższe,Agronom – ekspert,0,0,1,1
+1272,lubelskie,25-50 Ha,Borowki,9,Promotor,40-49,Wyższe,Agronom – ekspert,0,0,1,1
+1272,lubelskie,25-50 Ha,Porzeczki,7,Neutral,40-49,Wyższe,Agronom – ekspert,0,1,0,1
+1272,lubelskie,25-50 Ha,Maliny,2,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+1272,lubelskie,25-50 Ha,Aronia,2,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+1272,lubelskie,25-50 Ha,Jagody,5,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+1286,lubelskie,25-50 Ha,Jablka,4,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1286,lubelskie,25-50 Ha,Sliwki,3,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Gruszki,4,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Wisnie,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1286,lubelskie,25-50 Ha,Borowki,1,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Porzeczki,5,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Maliny,5,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Aronia,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1286,lubelskie,25-50 Ha,Jagody,8,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1292,lubelskie,100-250 Ha,Jablka,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1292,lubelskie,100-250 Ha,Truskawki,3,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1292,lubelskie,100-250 Ha,Sliwki,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1292,lubelskie,100-250 Ha,Gruszki,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1292,lubelskie,100-250 Ha,Wisnie,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1292,lubelskie,100-250 Ha,Borowki,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1292,lubelskie,100-250 Ha,Porzeczki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1292,lubelskie,100-250 Ha,Maliny,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1292,lubelskie,100-250 Ha,Aronia,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1292,lubelskie,100-250 Ha,Jagody,3,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1293,lubelskie,Więcej niż 250 Ha,Jablka,6,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1293,lubelskie,Więcej niż 250 Ha,Truskawki,8,Neutral,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1293,lubelskie,Więcej niż 250 Ha,Sliwki,5,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1293,lubelskie,Więcej niż 250 Ha,Gruszki,6,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1293,lubelskie,Więcej niż 250 Ha,Wisnie,6,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1293,lubelskie,Więcej niż 250 Ha,Borowki,10,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1293,lubelskie,Więcej niż 250 Ha,Porzeczki,9,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1293,lubelskie,Więcej niż 250 Ha,Maliny,3,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1293,lubelskie,Więcej niż 250 Ha,Aronia,NA,NA,<30,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+1293,lubelskie,Więcej niż 250 Ha,Jagody,10,Promotor,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1294,lubuskie,25-50 Ha,Jablka,10,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1294,lubuskie,25-50 Ha,Truskawki,8,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1294,lubuskie,25-50 Ha,Sliwki,10,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1294,lubuskie,25-50 Ha,Gruszki,4,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1294,lubuskie,25-50 Ha,Wisnie,7,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1294,lubuskie,25-50 Ha,Borowki,8,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1294,lubuskie,25-50 Ha,Porzeczki,7,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1294,lubuskie,25-50 Ha,Maliny,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1294,lubuskie,25-50 Ha,Aronia,1,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1294,lubuskie,25-50 Ha,Jagody,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1295,lubuskie,100-250 Ha,Jablka,2,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Truskawki,5,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Sliwki,1,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Gruszki,2,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Wisnie,4,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Borowki,8,Neutral,30-39,Średnie ogólne,Właściciel,0,1,0,1
+1295,lubuskie,100-250 Ha,Porzeczki,2,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Maliny,10,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1295,lubuskie,100-250 Ha,Aronia,1,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1295,lubuskie,100-250 Ha,Jagody,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1319,lubuskie,100-250 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1319,lubuskie,100-250 Ha,Truskawki,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1319,lubuskie,100-250 Ha,Sliwki,5,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1319,lubuskie,100-250 Ha,Gruszki,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1319,lubuskie,100-250 Ha,Wisnie,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1319,lubuskie,100-250 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1319,lubuskie,100-250 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1319,lubuskie,100-250 Ha,Maliny,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1319,lubuskie,100-250 Ha,Aronia,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1319,lubuskie,100-250 Ha,Jagody,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1322,lubuskie,50-100 Ha,Jablka,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1322,lubuskie,50-100 Ha,Truskawki,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1322,lubuskie,50-100 Ha,Sliwki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1322,lubuskie,50-100 Ha,Gruszki,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1322,lubuskie,50-100 Ha,Wisnie,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1322,lubuskie,50-100 Ha,Borowki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1322,lubuskie,50-100 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1322,lubuskie,50-100 Ha,Maliny,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1322,lubuskie,50-100 Ha,Aronia,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1322,lubuskie,50-100 Ha,Jagody,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1327,lubuskie,25-50 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1327,lubuskie,25-50 Ha,Truskawki,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1327,lubuskie,25-50 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1327,lubuskie,25-50 Ha,Gruszki,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1327,lubuskie,25-50 Ha,Wisnie,8,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1327,lubuskie,25-50 Ha,Borowki,8,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1327,lubuskie,25-50 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1327,lubuskie,25-50 Ha,Maliny,10,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1327,lubuskie,25-50 Ha,Aronia,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1327,lubuskie,25-50 Ha,Jagody,4,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1356,lubuskie,50-100 Ha,Jablka,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1356,lubuskie,50-100 Ha,Truskawki,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1356,lubuskie,50-100 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1356,lubuskie,50-100 Ha,Gruszki,8,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1356,lubuskie,50-100 Ha,Wisnie,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1356,lubuskie,50-100 Ha,Borowki,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1356,lubuskie,50-100 Ha,Porzeczki,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+1356,lubuskie,50-100 Ha,Maliny,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1356,lubuskie,50-100 Ha,Aronia,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1356,lubuskie,50-100 Ha,Jagody,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1358,łódzkie,100-250 Ha,Jablka,3,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+1358,łódzkie,100-250 Ha,Truskawki,4,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+1358,łódzkie,100-250 Ha,Sliwki,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+1358,łódzkie,100-250 Ha,Gruszki,9,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+1358,łódzkie,100-250 Ha,Wisnie,9,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+1358,łódzkie,100-250 Ha,Borowki,10,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+1358,łódzkie,100-250 Ha,Porzeczki,9,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+1358,łódzkie,100-250 Ha,Maliny,10,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+1358,łódzkie,100-250 Ha,Aronia,6,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+1358,łódzkie,100-250 Ha,Jagody,5,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+1364,łódzkie,50-100 Ha,Jablka,7,Neutral,40-49,Średnie ogólne,Właściciel,0,1,0,1
+1364,łódzkie,50-100 Ha,Truskawki,9,Promotor,40-49,Średnie ogólne,Właściciel,0,0,1,1
+1364,łódzkie,50-100 Ha,Sliwki,10,Promotor,40-49,Średnie ogólne,Właściciel,0,0,1,1
+1364,łódzkie,50-100 Ha,Gruszki,5,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1364,łódzkie,50-100 Ha,Wisnie,4,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1364,łódzkie,50-100 Ha,Borowki,10,Promotor,40-49,Średnie ogólne,Właściciel,0,0,1,1
+1364,łódzkie,50-100 Ha,Porzeczki,2,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1364,łódzkie,50-100 Ha,Maliny,3,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1364,łódzkie,50-100 Ha,Aronia,4,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1364,łódzkie,50-100 Ha,Jagody,NA,NA,40-49,Średnie ogólne,Właściciel,NA,NA,NA,1
+1375,łódzkie,NA,Jablka,5,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1375,łódzkie,NA,Truskawki,NA,NA,30-39,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+1375,łódzkie,NA,Sliwki,3,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1375,łódzkie,NA,Gruszki,3,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1375,łódzkie,NA,Wisnie,10,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1375,łódzkie,NA,Borowki,2,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1375,łódzkie,NA,Porzeczki,9,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1375,łódzkie,NA,Maliny,5,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1375,łódzkie,NA,Aronia,2,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1375,łódzkie,NA,Jagody,8,Neutral,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1377,łódzkie,5-25 Ha,Jablka,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1377,łódzkie,5-25 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1377,łódzkie,5-25 Ha,Sliwki,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1377,łódzkie,5-25 Ha,Gruszki,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+1377,łódzkie,5-25 Ha,Wisnie,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1377,łódzkie,5-25 Ha,Borowki,1,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1377,łódzkie,5-25 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1377,łódzkie,5-25 Ha,Maliny,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1377,łódzkie,5-25 Ha,Aronia,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1377,łódzkie,5-25 Ha,Jagody,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1382,łódzkie,5-25 Ha,Jablka,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1382,łódzkie,5-25 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1382,łódzkie,5-25 Ha,Sliwki,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1382,łódzkie,5-25 Ha,Gruszki,10,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1382,łódzkie,5-25 Ha,Wisnie,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1382,łódzkie,5-25 Ha,Borowki,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1382,łódzkie,5-25 Ha,Porzeczki,4,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1382,łódzkie,5-25 Ha,Maliny,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1382,łódzkie,5-25 Ha,Aronia,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1382,łódzkie,5-25 Ha,Jagody,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1393,małopolskie,5-25 Ha,Jablka,9,Promotor,40-49,Wyższe rolnicze,Właściciel,0,0,1,1
+1393,małopolskie,5-25 Ha,Truskawki,7,Neutral,40-49,Wyższe rolnicze,Właściciel,0,1,0,1
+1393,małopolskie,5-25 Ha,Sliwki,9,Promotor,40-49,Wyższe rolnicze,Właściciel,0,0,1,1
+1393,małopolskie,5-25 Ha,Gruszki,NA,NA,40-49,Wyższe rolnicze,Właściciel,NA,NA,NA,1
+1393,małopolskie,5-25 Ha,Wisnie,3,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+1393,małopolskie,5-25 Ha,Borowki,8,Neutral,40-49,Wyższe rolnicze,Właściciel,0,1,0,1
+1393,małopolskie,5-25 Ha,Porzeczki,10,Promotor,40-49,Wyższe rolnicze,Właściciel,0,0,1,1
+1393,małopolskie,5-25 Ha,Maliny,1,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+1393,małopolskie,5-25 Ha,Aronia,5,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+1393,małopolskie,5-25 Ha,Jagody,4,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+1403,małopolskie,NA,Jablka,2,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1403,małopolskie,NA,Truskawki,9,Promotor,40-49,Średnie ogólne,Właściciel,0,0,1,1
+1403,małopolskie,NA,Sliwki,10,Promotor,40-49,Średnie ogólne,Właściciel,0,0,1,1
+1403,małopolskie,NA,Gruszki,NA,NA,40-49,Średnie ogólne,Właściciel,NA,NA,NA,1
+1403,małopolskie,NA,Wisnie,7,Neutral,40-49,Średnie ogólne,Właściciel,0,1,0,1
+1403,małopolskie,NA,Borowki,3,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1403,małopolskie,NA,Porzeczki,1,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1403,małopolskie,NA,Maliny,6,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1403,małopolskie,NA,Aronia,7,Neutral,40-49,Średnie ogólne,Właściciel,0,1,0,1
+1403,małopolskie,NA,Jagody,5,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1404,małopolskie,5-25 Ha,Jablka,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1404,małopolskie,5-25 Ha,Truskawki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1404,małopolskie,5-25 Ha,Sliwki,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1404,małopolskie,5-25 Ha,Gruszki,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1404,małopolskie,5-25 Ha,Wisnie,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1404,małopolskie,5-25 Ha,Borowki,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1404,małopolskie,5-25 Ha,Porzeczki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1404,małopolskie,5-25 Ha,Maliny,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+1404,małopolskie,5-25 Ha,Aronia,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1404,małopolskie,5-25 Ha,Jagody,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1412,mazowieckie,Więcej niż 250 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1412,mazowieckie,Więcej niż 250 Ha,Sliwki,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Gruszki,5,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Wisnie,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1412,mazowieckie,Więcej niż 250 Ha,Porzeczki,1,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Maliny,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Aronia,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1412,mazowieckie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1413,mazowieckie,100-250 Ha,Jablka,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1413,mazowieckie,100-250 Ha,Truskawki,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1413,mazowieckie,100-250 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1413,mazowieckie,100-250 Ha,Gruszki,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1413,mazowieckie,100-250 Ha,Wisnie,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1413,mazowieckie,100-250 Ha,Borowki,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1413,mazowieckie,100-250 Ha,Porzeczki,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1413,mazowieckie,100-250 Ha,Maliny,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1413,mazowieckie,100-250 Ha,Aronia,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1413,mazowieckie,100-250 Ha,Jagody,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1430,mazowieckie,NA,Jablka,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1430,mazowieckie,NA,Truskawki,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1430,mazowieckie,NA,Sliwki,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1430,mazowieckie,NA,Gruszki,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1430,mazowieckie,NA,Wisnie,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1430,mazowieckie,NA,Borowki,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1430,mazowieckie,NA,Porzeczki,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1430,mazowieckie,NA,Maliny,2,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1430,mazowieckie,NA,Aronia,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1430,mazowieckie,NA,Jagody,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+1450,mazowieckie,5-25 Ha,Jablka,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1450,mazowieckie,5-25 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1450,mazowieckie,5-25 Ha,Sliwki,6,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1450,mazowieckie,5-25 Ha,Gruszki,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1450,mazowieckie,5-25 Ha,Wisnie,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1450,mazowieckie,5-25 Ha,Borowki,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1450,mazowieckie,5-25 Ha,Porzeczki,6,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1450,mazowieckie,5-25 Ha,Maliny,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1450,mazowieckie,5-25 Ha,Aronia,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1450,mazowieckie,5-25 Ha,Jagody,NA,NA,50+,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+1469,mazowieckie,NA,Jablka,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Truskawki,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Sliwki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1469,mazowieckie,NA,Gruszki,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Wisnie,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Borowki,3,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Porzeczki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1469,mazowieckie,NA,Maliny,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Aronia,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1469,mazowieckie,NA,Jagody,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1475,mazowieckie,100-250 Ha,Jablka,9,Promotor,40-49,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1475,mazowieckie,100-250 Ha,Truskawki,10,Promotor,40-49,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1475,mazowieckie,100-250 Ha,Sliwki,5,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1475,mazowieckie,100-250 Ha,Gruszki,1,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1475,mazowieckie,100-250 Ha,Wisnie,1,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1475,mazowieckie,100-250 Ha,Borowki,10,Promotor,40-49,Średnie techniczne,Agronom – ekspert,0,0,1,1
+1475,mazowieckie,100-250 Ha,Porzeczki,3,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+1475,mazowieckie,100-250 Ha,Maliny,7,Neutral,40-49,Średnie techniczne,Agronom – ekspert,0,1,0,1
+1475,mazowieckie,100-250 Ha,Aronia,NA,NA,40-49,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+1475,mazowieckie,100-250 Ha,Jagody,7,Neutral,40-49,Średnie techniczne,Agronom – ekspert,0,1,0,1
+1476,mazowieckie,NA,Jablka,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1476,mazowieckie,NA,Truskawki,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1476,mazowieckie,NA,Sliwki,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1476,mazowieckie,NA,Gruszki,3,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1476,mazowieckie,NA,Wisnie,1,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1476,mazowieckie,NA,Borowki,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1476,mazowieckie,NA,Porzeczki,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1476,mazowieckie,NA,Maliny,5,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1476,mazowieckie,NA,Aronia,2,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1476,mazowieckie,NA,Jagody,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1477,mazowieckie,5-25 Ha,Jablka,10,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+1477,mazowieckie,5-25 Ha,Truskawki,9,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+1477,mazowieckie,5-25 Ha,Sliwki,4,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1477,mazowieckie,5-25 Ha,Gruszki,5,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1477,mazowieckie,5-25 Ha,Wisnie,NA,NA,40-49,Średnie ogólne,Główny agronom,NA,NA,NA,1
+1477,mazowieckie,5-25 Ha,Borowki,10,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+1477,mazowieckie,5-25 Ha,Porzeczki,4,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1477,mazowieckie,5-25 Ha,Maliny,6,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1477,mazowieckie,5-25 Ha,Aronia,6,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1477,mazowieckie,5-25 Ha,Jagody,NA,NA,40-49,Średnie ogólne,Główny agronom,NA,NA,NA,1
+1490,mazowieckie,100-250 Ha,Jablka,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+1490,mazowieckie,100-250 Ha,Truskawki,2,Detractor,50+,Średnie techniczne,???,1,0,0,1
+1490,mazowieckie,100-250 Ha,Sliwki,9,Promotor,50+,Średnie techniczne,???,0,0,1,1
+1490,mazowieckie,100-250 Ha,Gruszki,3,Detractor,50+,Średnie techniczne,???,1,0,0,1
+1490,mazowieckie,100-250 Ha,Wisnie,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+1490,mazowieckie,100-250 Ha,Borowki,9,Promotor,50+,Średnie techniczne,???,0,0,1,1
+1490,mazowieckie,100-250 Ha,Porzeczki,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+1490,mazowieckie,100-250 Ha,Maliny,2,Detractor,50+,Średnie techniczne,???,1,0,0,1
+1490,mazowieckie,100-250 Ha,Aronia,NA,NA,50+,Średnie techniczne,???,NA,NA,NA,1
+1490,mazowieckie,100-250 Ha,Jagody,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+1501,opolskie,100-250 Ha,Jablka,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1501,opolskie,100-250 Ha,Truskawki,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1501,opolskie,100-250 Ha,Sliwki,10,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1501,opolskie,100-250 Ha,Gruszki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1501,opolskie,100-250 Ha,Wisnie,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1501,opolskie,100-250 Ha,Borowki,9,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1501,opolskie,100-250 Ha,Porzeczki,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1501,opolskie,100-250 Ha,Maliny,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1501,opolskie,100-250 Ha,Aronia,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1501,opolskie,100-250 Ha,Jagody,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1503,opolskie,50-100 Ha,Jablka,6,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1503,opolskie,50-100 Ha,Truskawki,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1503,opolskie,50-100 Ha,Sliwki,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1503,opolskie,50-100 Ha,Gruszki,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1503,opolskie,50-100 Ha,Wisnie,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1503,opolskie,50-100 Ha,Borowki,1,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1503,opolskie,50-100 Ha,Porzeczki,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1503,opolskie,50-100 Ha,Maliny,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1503,opolskie,50-100 Ha,Aronia,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1503,opolskie,50-100 Ha,Jagody,6,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1508,opolskie,100-250 Ha,Jablka,6,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1508,opolskie,100-250 Ha,Truskawki,4,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1508,opolskie,100-250 Ha,Sliwki,9,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1508,opolskie,100-250 Ha,Gruszki,9,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1508,opolskie,100-250 Ha,Wisnie,6,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1508,opolskie,100-250 Ha,Borowki,10,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1508,opolskie,100-250 Ha,Porzeczki,9,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1508,opolskie,100-250 Ha,Maliny,1,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1508,opolskie,100-250 Ha,Aronia,8,Neutral,40-49,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1508,opolskie,100-250 Ha,Jagody,2,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1529,opolskie,100-250 Ha,Jablka,10,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1529,opolskie,100-250 Ha,Truskawki,NA,NA,50+,Średnie ogólne,Główny agronom,NA,NA,NA,1
+1529,opolskie,100-250 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1529,opolskie,100-250 Ha,Gruszki,3,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1529,opolskie,100-250 Ha,Wisnie,5,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1529,opolskie,100-250 Ha,Borowki,10,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+1529,opolskie,100-250 Ha,Porzeczki,2,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1529,opolskie,100-250 Ha,Maliny,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+1529,opolskie,100-250 Ha,Aronia,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1529,opolskie,100-250 Ha,Jagody,4,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+1531,opolskie,100-250 Ha,Jablka,9,Promotor,40-49,Średnie ogólne,Właściciel,0,0,1,1
+1531,opolskie,100-250 Ha,Truskawki,3,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1531,opolskie,100-250 Ha,Sliwki,2,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1531,opolskie,100-250 Ha,Gruszki,6,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1531,opolskie,100-250 Ha,Wisnie,6,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1531,opolskie,100-250 Ha,Borowki,6,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1531,opolskie,100-250 Ha,Porzeczki,8,Neutral,40-49,Średnie ogólne,Właściciel,0,1,0,1
+1531,opolskie,100-250 Ha,Maliny,2,Detractor,40-49,Średnie ogólne,Właściciel,1,0,0,1
+1531,opolskie,100-250 Ha,Aronia,7,Neutral,40-49,Średnie ogólne,Właściciel,0,1,0,1
+1531,opolskie,100-250 Ha,Jagody,8,Neutral,40-49,Średnie ogólne,Właściciel,0,1,0,1
+1540,opolskie,Więcej niż 250 Ha,Jablka,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1540,opolskie,Więcej niż 250 Ha,Truskawki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1540,opolskie,Więcej niż 250 Ha,Sliwki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1540,opolskie,Więcej niż 250 Ha,Gruszki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1540,opolskie,Więcej niż 250 Ha,Wisnie,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1540,opolskie,Więcej niż 250 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1540,opolskie,Więcej niż 250 Ha,Porzeczki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1540,opolskie,Więcej niż 250 Ha,Maliny,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1540,opolskie,Więcej niż 250 Ha,Aronia,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1540,opolskie,Więcej niż 250 Ha,Jagody,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1548,podkarpackie,100-250 Ha,Jablka,2,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1548,podkarpackie,100-250 Ha,Truskawki,9,Promotor,40-49,Średnie ogólne,???,0,0,1,1
+1548,podkarpackie,100-250 Ha,Sliwki,10,Promotor,40-49,Średnie ogólne,???,0,0,1,1
+1548,podkarpackie,100-250 Ha,Gruszki,6,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1548,podkarpackie,100-250 Ha,Wisnie,1,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1548,podkarpackie,100-250 Ha,Borowki,9,Promotor,40-49,Średnie ogólne,???,0,0,1,1
+1548,podkarpackie,100-250 Ha,Porzeczki,4,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1548,podkarpackie,100-250 Ha,Maliny,8,Neutral,40-49,Średnie ogólne,???,0,1,0,1
+1548,podkarpackie,100-250 Ha,Aronia,NA,NA,40-49,Średnie ogólne,???,NA,NA,NA,1
+1548,podkarpackie,100-250 Ha,Jagody,NA,NA,40-49,Średnie ogólne,???,NA,NA,NA,1
+1567,podkarpackie,5-25 Ha,Jablka,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1567,podkarpackie,5-25 Ha,Truskawki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1567,podkarpackie,5-25 Ha,Sliwki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1567,podkarpackie,5-25 Ha,Gruszki,5,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1567,podkarpackie,5-25 Ha,Wisnie,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1567,podkarpackie,5-25 Ha,Borowki,8,Neutral,30-39,Średnie ogólne,Właściciel,0,1,0,1
+1567,podkarpackie,5-25 Ha,Porzeczki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1567,podkarpackie,5-25 Ha,Maliny,2,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1567,podkarpackie,5-25 Ha,Aronia,3,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1567,podkarpackie,5-25 Ha,Jagody,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Jablka,10,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1575,podkarpackie,Więcej niż 250 Ha,Truskawki,4,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Sliwki,4,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Gruszki,3,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Wisnie,7,Neutral,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Borowki,5,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Porzeczki,3,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Maliny,NA,NA,40-49,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+1575,podkarpackie,Więcej niż 250 Ha,Aronia,7,Neutral,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1575,podkarpackie,Więcej niż 250 Ha,Jagody,3,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1578,podkarpackie,Więcej niż 250 Ha,Jablka,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1578,podkarpackie,Więcej niż 250 Ha,Truskawki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1578,podkarpackie,Więcej niż 250 Ha,Sliwki,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1578,podkarpackie,Więcej niż 250 Ha,Gruszki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1578,podkarpackie,Więcej niż 250 Ha,Wisnie,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+1578,podkarpackie,Więcej niż 250 Ha,Borowki,3,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1578,podkarpackie,Więcej niż 250 Ha,Porzeczki,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1578,podkarpackie,Więcej niż 250 Ha,Maliny,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+1578,podkarpackie,Więcej niż 250 Ha,Aronia,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1578,podkarpackie,Więcej niż 250 Ha,Jagody,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1581,podkarpackie,100-250 Ha,Jablka,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1581,podkarpackie,100-250 Ha,Truskawki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1581,podkarpackie,100-250 Ha,Sliwki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1581,podkarpackie,100-250 Ha,Gruszki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1581,podkarpackie,100-250 Ha,Wisnie,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1581,podkarpackie,100-250 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1581,podkarpackie,100-250 Ha,Porzeczki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1581,podkarpackie,100-250 Ha,Maliny,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1581,podkarpackie,100-250 Ha,Aronia,3,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1581,podkarpackie,100-250 Ha,Jagody,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1588,podlaskie,5-25 Ha,Jablka,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1588,podlaskie,5-25 Ha,Truskawki,4,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1588,podlaskie,5-25 Ha,Sliwki,4,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1588,podlaskie,5-25 Ha,Gruszki,2,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1588,podlaskie,5-25 Ha,Wisnie,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1588,podlaskie,5-25 Ha,Borowki,3,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1588,podlaskie,5-25 Ha,Porzeczki,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1588,podlaskie,5-25 Ha,Maliny,5,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1588,podlaskie,5-25 Ha,Aronia,NA,NA,30-39,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+1588,podlaskie,5-25 Ha,Jagody,8,Neutral,30-39,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1591,podlaskie,50-100 Ha,Jablka,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1591,podlaskie,50-100 Ha,Truskawki,10,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1591,podlaskie,50-100 Ha,Sliwki,5,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1591,podlaskie,50-100 Ha,Gruszki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1591,podlaskie,50-100 Ha,Wisnie,1,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1591,podlaskie,50-100 Ha,Borowki,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1591,podlaskie,50-100 Ha,Porzeczki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1591,podlaskie,50-100 Ha,Maliny,8,Neutral,30-39,Średnie ogólne,Właściciel,0,1,0,1
+1591,podlaskie,50-100 Ha,Aronia,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1591,podlaskie,50-100 Ha,Jagody,3,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1599,podlaskie,NA,Jablka,2,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+1599,podlaskie,NA,Truskawki,1,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+1599,podlaskie,NA,Sliwki,1,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+1599,podlaskie,NA,Gruszki,9,Promotor,30-39,Średnie ogólne,???,0,0,1,1
+1599,podlaskie,NA,Wisnie,7,Neutral,30-39,Średnie ogólne,???,0,1,0,1
+1599,podlaskie,NA,Borowki,9,Promotor,30-39,Średnie ogólne,???,0,0,1,1
+1599,podlaskie,NA,Porzeczki,9,Promotor,30-39,Średnie ogólne,???,0,0,1,1
+1599,podlaskie,NA,Maliny,9,Promotor,30-39,Średnie ogólne,???,0,0,1,1
+1599,podlaskie,NA,Aronia,7,Neutral,30-39,Średnie ogólne,???,0,1,0,1
+1599,podlaskie,NA,Jagody,1,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+1605,podlaskie,50-100 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1605,podlaskie,50-100 Ha,Truskawki,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1605,podlaskie,50-100 Ha,Sliwki,6,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1605,podlaskie,50-100 Ha,Gruszki,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1605,podlaskie,50-100 Ha,Wisnie,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1605,podlaskie,50-100 Ha,Borowki,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1605,podlaskie,50-100 Ha,Porzeczki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1605,podlaskie,50-100 Ha,Maliny,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1605,podlaskie,50-100 Ha,Aronia,NA,NA,50+,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+1605,podlaskie,50-100 Ha,Jagody,1,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1634,pomorskie,5-25 Ha,Jablka,6,Detractor,<30,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1634,pomorskie,5-25 Ha,Truskawki,8,Neutral,<30,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1634,pomorskie,5-25 Ha,Sliwki,8,Neutral,<30,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1634,pomorskie,5-25 Ha,Gruszki,8,Neutral,<30,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1634,pomorskie,5-25 Ha,Wisnie,8,Neutral,<30,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1634,pomorskie,5-25 Ha,Borowki,9,Promotor,<30,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1634,pomorskie,5-25 Ha,Porzeczki,9,Promotor,<30,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1634,pomorskie,5-25 Ha,Maliny,9,Promotor,<30,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1634,pomorskie,5-25 Ha,Aronia,4,Detractor,<30,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1634,pomorskie,5-25 Ha,Jagody,7,Neutral,<30,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1638,pomorskie,NA,Jablka,4,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Truskawki,3,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Sliwki,4,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Gruszki,1,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Wisnie,1,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Borowki,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Porzeczki,7,Neutral,30-39,Średnie ogólne,Właściciel,0,1,0,1
+1638,pomorskie,NA,Maliny,5,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+1638,pomorskie,NA,Aronia,10,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1638,pomorskie,NA,Jagody,10,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+1653,pomorskie,25-50 Ha,Jablka,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1653,pomorskie,25-50 Ha,Truskawki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1653,pomorskie,25-50 Ha,Sliwki,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1653,pomorskie,25-50 Ha,Gruszki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1653,pomorskie,25-50 Ha,Wisnie,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1653,pomorskie,25-50 Ha,Borowki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1653,pomorskie,25-50 Ha,Porzeczki,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+1653,pomorskie,25-50 Ha,Maliny,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1653,pomorskie,25-50 Ha,Aronia,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+1653,pomorskie,25-50 Ha,Jagody,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+1666,śląskie,25-50 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1666,śląskie,25-50 Ha,Truskawki,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1666,śląskie,25-50 Ha,Sliwki,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1666,śląskie,25-50 Ha,Gruszki,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1666,śląskie,25-50 Ha,Wisnie,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1666,śląskie,25-50 Ha,Borowki,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1666,śląskie,25-50 Ha,Porzeczki,5,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1666,śląskie,25-50 Ha,Maliny,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1666,śląskie,25-50 Ha,Aronia,6,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1666,śląskie,25-50 Ha,Jagody,1,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Jablka,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Truskawki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Sliwki,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Gruszki,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Wisnie,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Maliny,3,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Aronia,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1672,świętokrzyskie,Więcej niż 250 Ha,Jagody,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Jablka,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Truskawki,7,Neutral,30-39,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Sliwki,4,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Gruszki,4,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Wisnie,2,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Borowki,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Porzeczki,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Maliny,10,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Aronia,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1694,świętokrzyskie,Więcej niż 250 Ha,Jagody,6,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Jablka,9,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+1705,warmińsko-mazurskie,25-50 Ha,Truskawki,2,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Sliwki,8,Neutral,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Gruszki,5,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Wisnie,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Borowki,1,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Porzeczki,7,Neutral,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Maliny,5,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Aronia,1,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1705,warmińsko-mazurskie,25-50 Ha,Jagody,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+1710,warmińsko-mazurskie,50-100 Ha,Jablka,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1710,warmińsko-mazurskie,50-100 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1710,warmińsko-mazurskie,50-100 Ha,Sliwki,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1710,warmińsko-mazurskie,50-100 Ha,Gruszki,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1710,warmińsko-mazurskie,50-100 Ha,Wisnie,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1710,warmińsko-mazurskie,50-100 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1710,warmińsko-mazurskie,50-100 Ha,Porzeczki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1710,warmińsko-mazurskie,50-100 Ha,Maliny,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1710,warmińsko-mazurskie,50-100 Ha,Aronia,7,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1710,warmińsko-mazurskie,50-100 Ha,Jagody,1,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Jablka,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1712,warmińsko-mazurskie,5-25 Ha,Truskawki,8,Neutral,30-39,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Sliwki,8,Neutral,30-39,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Gruszki,5,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Wisnie,8,Neutral,30-39,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Borowki,10,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1712,warmińsko-mazurskie,5-25 Ha,Porzeczki,4,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Maliny,2,Detractor,30-39,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1712,warmińsko-mazurskie,5-25 Ha,Aronia,NA,NA,30-39,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+1712,warmińsko-mazurskie,5-25 Ha,Jagody,9,Promotor,30-39,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1719,wielkopolskie,Więcej niż 250 Ha,Jablka,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1719,wielkopolskie,Więcej niż 250 Ha,Truskawki,7,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Sliwki,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Gruszki,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Wisnie,4,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Borowki,2,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Porzeczki,7,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Maliny,8,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1719,wielkopolskie,Więcej niż 250 Ha,Aronia,NA,NA,<30,Średnie ogólne,???,NA,NA,NA,1
+1719,wielkopolskie,Więcej niż 250 Ha,Jagody,5,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1739,wielkopolskie,NA,Jablka,1,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1739,wielkopolskie,NA,Truskawki,6,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1739,wielkopolskie,NA,Sliwki,NA,NA,<30,Średnie ogólne,Główny agronom,NA,NA,NA,1
+1739,wielkopolskie,NA,Gruszki,NA,NA,<30,Średnie ogólne,Główny agronom,NA,NA,NA,1
+1739,wielkopolskie,NA,Wisnie,7,Neutral,<30,Średnie ogólne,Główny agronom,0,1,0,1
+1739,wielkopolskie,NA,Borowki,9,Promotor,<30,Średnie ogólne,Główny agronom,0,0,1,1
+1739,wielkopolskie,NA,Porzeczki,4,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1739,wielkopolskie,NA,Maliny,9,Promotor,<30,Średnie ogólne,Główny agronom,0,0,1,1
+1739,wielkopolskie,NA,Aronia,8,Neutral,<30,Średnie ogólne,Główny agronom,0,1,0,1
+1739,wielkopolskie,NA,Jagody,5,Detractor,<30,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Jablka,10,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+1740,wielkopolskie,100-250 Ha,Truskawki,6,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Sliwki,1,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Gruszki,1,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Wisnie,4,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Borowki,3,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Porzeczki,7,Neutral,40-49,Średnie ogólne,Główny agronom,0,1,0,1
+1740,wielkopolskie,100-250 Ha,Maliny,5,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1740,wielkopolskie,100-250 Ha,Aronia,10,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+1740,wielkopolskie,100-250 Ha,Jagody,1,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Jablka,10,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1752,wielkopolskie,Więcej niż 250 Ha,Truskawki,9,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+1752,wielkopolskie,Więcej niż 250 Ha,Sliwki,6,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Gruszki,5,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Wisnie,6,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Borowki,7,Neutral,40-49,Średnie ogólne,Agronom – ekspert,0,1,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Porzeczki,5,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Maliny,1,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Aronia,2,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1752,wielkopolskie,Więcej niż 250 Ha,Jagody,5,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+1777,wielkopolskie,Więcej niż 250 Ha,Jablka,10,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1777,wielkopolskie,Więcej niż 250 Ha,Truskawki,10,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1777,wielkopolskie,Więcej niż 250 Ha,Sliwki,3,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1777,wielkopolskie,Więcej niż 250 Ha,Gruszki,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1777,wielkopolskie,Więcej niż 250 Ha,Wisnie,5,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1777,wielkopolskie,Więcej niż 250 Ha,Borowki,9,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1777,wielkopolskie,Więcej niż 250 Ha,Porzeczki,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1777,wielkopolskie,Więcej niż 250 Ha,Maliny,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1777,wielkopolskie,Więcej niż 250 Ha,Aronia,9,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1777,wielkopolskie,Więcej niż 250 Ha,Jagody,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1792,wielkopolskie,Więcej niż 250 Ha,Jablka,7,Neutral,<30,Wyższe,???,0,1,0,1
+1792,wielkopolskie,Więcej niż 250 Ha,Truskawki,7,Neutral,<30,Wyższe,???,0,1,0,1
+1792,wielkopolskie,Więcej niż 250 Ha,Sliwki,10,Promotor,<30,Wyższe,???,0,0,1,1
+1792,wielkopolskie,Więcej niż 250 Ha,Gruszki,7,Neutral,<30,Wyższe,???,0,1,0,1
+1792,wielkopolskie,Więcej niż 250 Ha,Wisnie,10,Promotor,<30,Wyższe,???,0,0,1,1
+1792,wielkopolskie,Więcej niż 250 Ha,Borowki,10,Promotor,<30,Wyższe,???,0,0,1,1
+1792,wielkopolskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,<30,Wyższe,???,0,1,0,1
+1792,wielkopolskie,Więcej niż 250 Ha,Maliny,NA,NA,<30,Wyższe,???,NA,NA,NA,1
+1792,wielkopolskie,Więcej niż 250 Ha,Aronia,4,Detractor,<30,Wyższe,???,1,0,0,1
+1792,wielkopolskie,Więcej niż 250 Ha,Jagody,2,Detractor,<30,Wyższe,???,1,0,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Jablka,10,Promotor,50+,Średnie ogólne,???,0,0,1,1
+1851,wielkopolskie,Więcej niż 250 Ha,Truskawki,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Sliwki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Gruszki,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Wisnie,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Borowki,2,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Maliny,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+1851,wielkopolskie,Więcej niż 250 Ha,Aronia,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+1851,wielkopolskie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+1860,wielkopolskie,5-25 Ha,Jablka,10,Promotor,30-39,Średnie ogólne,Główny agronom,0,0,1,1
+1860,wielkopolskie,5-25 Ha,Truskawki,4,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1860,wielkopolskie,5-25 Ha,Sliwki,2,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1860,wielkopolskie,5-25 Ha,Gruszki,7,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1860,wielkopolskie,5-25 Ha,Wisnie,2,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1860,wielkopolskie,5-25 Ha,Borowki,6,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1860,wielkopolskie,5-25 Ha,Porzeczki,8,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1860,wielkopolskie,5-25 Ha,Maliny,5,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1860,wielkopolskie,5-25 Ha,Aronia,4,Detractor,30-39,Średnie ogólne,Główny agronom,1,0,0,1
+1860,wielkopolskie,5-25 Ha,Jagody,7,Neutral,30-39,Średnie ogólne,Główny agronom,0,1,0,1
+1863,wielkopolskie,5-25 Ha,Jablka,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1863,wielkopolskie,5-25 Ha,Truskawki,1,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1863,wielkopolskie,5-25 Ha,Sliwki,10,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1863,wielkopolskie,5-25 Ha,Gruszki,2,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1863,wielkopolskie,5-25 Ha,Wisnie,1,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1863,wielkopolskie,5-25 Ha,Borowki,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1863,wielkopolskie,5-25 Ha,Porzeczki,10,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1863,wielkopolskie,5-25 Ha,Maliny,7,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1863,wielkopolskie,5-25 Ha,Aronia,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1863,wielkopolskie,5-25 Ha,Jagody,4,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1866,wielkopolskie,5-25 Ha,Jablka,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1866,wielkopolskie,5-25 Ha,Truskawki,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1866,wielkopolskie,5-25 Ha,Sliwki,10,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1866,wielkopolskie,5-25 Ha,Gruszki,5,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1866,wielkopolskie,5-25 Ha,Wisnie,1,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1866,wielkopolskie,5-25 Ha,Borowki,4,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1866,wielkopolskie,5-25 Ha,Porzeczki,8,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1866,wielkopolskie,5-25 Ha,Maliny,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1866,wielkopolskie,5-25 Ha,Aronia,6,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1866,wielkopolskie,5-25 Ha,Jagody,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1870,wielkopolskie,100-250 Ha,Jablka,8,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1870,wielkopolskie,100-250 Ha,Truskawki,7,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1870,wielkopolskie,100-250 Ha,Sliwki,10,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1870,wielkopolskie,100-250 Ha,Gruszki,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1870,wielkopolskie,100-250 Ha,Wisnie,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1870,wielkopolskie,100-250 Ha,Borowki,7,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1870,wielkopolskie,100-250 Ha,Porzeczki,10,Promotor,<30,Średnie ogólne,???,0,0,1,1
+1870,wielkopolskie,100-250 Ha,Maliny,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1870,wielkopolskie,100-250 Ha,Aronia,7,Neutral,<30,Średnie ogólne,???,0,1,0,1
+1870,wielkopolskie,100-250 Ha,Jagody,4,Detractor,<30,Średnie ogólne,???,1,0,0,1
+1909,wielkopolskie,100-250 Ha,Jablka,8,Neutral,40-49,Średnie ogólne,???,0,1,0,1
+1909,wielkopolskie,100-250 Ha,Truskawki,4,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1909,wielkopolskie,100-250 Ha,Sliwki,2,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1909,wielkopolskie,100-250 Ha,Gruszki,4,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1909,wielkopolskie,100-250 Ha,Wisnie,4,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1909,wielkopolskie,100-250 Ha,Borowki,10,Promotor,40-49,Średnie ogólne,???,0,0,1,1
+1909,wielkopolskie,100-250 Ha,Porzeczki,5,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1909,wielkopolskie,100-250 Ha,Maliny,NA,NA,40-49,Średnie ogólne,???,NA,NA,NA,1
+1909,wielkopolskie,100-250 Ha,Aronia,7,Neutral,40-49,Średnie ogólne,???,0,1,0,1
+1909,wielkopolskie,100-250 Ha,Jagody,4,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Jablka,NA,NA,40-49,Średnie ogólne,???,NA,NA,NA,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Truskawki,3,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Sliwki,3,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Gruszki,4,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Wisnie,NA,NA,40-49,Średnie ogólne,???,NA,NA,NA,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Borowki,8,Neutral,40-49,Średnie ogólne,???,0,1,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Porzeczki,2,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Maliny,6,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Aronia,NA,NA,40-49,Średnie ogólne,???,NA,NA,NA,1
+1959,zachodniopomorskie),Więcej niż 250 Ha,Jagody,1,Detractor,40-49,Średnie ogólne,???,1,0,0,1
+1971,dolnośląskie,25-50 Ha,Jablka,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1971,dolnośląskie,25-50 Ha,Truskawki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1971,dolnośląskie,25-50 Ha,Sliwki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1971,dolnośląskie,25-50 Ha,Gruszki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1971,dolnośląskie,25-50 Ha,Wisnie,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1971,dolnośląskie,25-50 Ha,Borowki,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+1971,dolnośląskie,25-50 Ha,Porzeczki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1971,dolnośląskie,25-50 Ha,Maliny,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+1971,dolnośląskie,25-50 Ha,Aronia,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+1971,dolnośląskie,25-50 Ha,Jagody,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Jablka,2,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Truskawki,1,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Sliwki,1,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Gruszki,4,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Wisnie,9,Promotor,40-49,Średnie techniczne,???,0,0,1,1
+1974,dolnośląskie,Więcej niż 250 Ha,Borowki,4,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Porzeczki,3,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Maliny,7,Neutral,40-49,Średnie techniczne,???,0,1,0,1
+1974,dolnośląskie,Więcej niż 250 Ha,Aronia,10,Promotor,40-49,Średnie techniczne,???,0,0,1,1
+1974,dolnośląskie,Więcej niż 250 Ha,Jagody,5,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Jablka,4,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Truskawki,7,Neutral,30-39,Wyższe rolnicze,Właściciel,0,1,0,1
+1978,dolnośląskie,100-250 Ha,Sliwki,2,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Gruszki,9,Promotor,30-39,Wyższe rolnicze,Właściciel,0,0,1,1
+1978,dolnośląskie,100-250 Ha,Wisnie,4,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Borowki,3,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Porzeczki,1,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Maliny,4,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Aronia,4,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1978,dolnośląskie,100-250 Ha,Jagody,6,Detractor,30-39,Wyższe rolnicze,Właściciel,1,0,0,1
+1984,dolnośląskie,NA,Jablka,5,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+1984,dolnośląskie,NA,Truskawki,1,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+1984,dolnośląskie,NA,Sliwki,8,Neutral,30-39,Wyższe,Agronom – ekspert,0,1,0,1
+1984,dolnośląskie,NA,Gruszki,10,Promotor,30-39,Wyższe,Agronom – ekspert,0,0,1,1
+1984,dolnośląskie,NA,Wisnie,3,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+1984,dolnośląskie,NA,Borowki,4,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+1984,dolnośląskie,NA,Porzeczki,4,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+1984,dolnośląskie,NA,Maliny,NA,NA,30-39,Wyższe,Agronom – ekspert,NA,NA,NA,1
+1984,dolnośląskie,NA,Aronia,1,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+1984,dolnośląskie,NA,Jagody,9,Promotor,30-39,Wyższe,Agronom – ekspert,0,0,1,1
+1994,dolnośląskie,25-50 Ha,Jablka,NA,NA,<30,Wyższe rolnicze,???,NA,NA,NA,1
+1994,dolnośląskie,25-50 Ha,Truskawki,5,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Sliwki,3,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Gruszki,4,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Wisnie,1,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Borowki,6,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Porzeczki,2,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Maliny,7,Neutral,<30,Wyższe rolnicze,???,0,1,0,1
+1994,dolnośląskie,25-50 Ha,Aronia,5,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+1994,dolnośląskie,25-50 Ha,Jagody,4,Detractor,<30,Wyższe rolnicze,???,1,0,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Jablka,3,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Truskawki,5,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Sliwki,8,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Gruszki,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Wisnie,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Maliny,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Aronia,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2000,kujawsko-pomorskie,Więcej niż 250 Ha,Jagody,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Jablka,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Truskawki,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Sliwki,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2004,kujawsko-pomorskie,5-25 Ha,Gruszki,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2004,kujawsko-pomorskie,5-25 Ha,Wisnie,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Borowki,5,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Porzeczki,2,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Maliny,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2004,kujawsko-pomorskie,5-25 Ha,Aronia,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2004,kujawsko-pomorskie,5-25 Ha,Jagody,3,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2019,kujawsko-pomorskie,NA,Jablka,3,Detractor,<30,Wyższe,Główny agronom,1,0,0,1
+2019,kujawsko-pomorskie,NA,Truskawki,1,Detractor,<30,Wyższe,Główny agronom,1,0,0,1
+2019,kujawsko-pomorskie,NA,Sliwki,4,Detractor,<30,Wyższe,Główny agronom,1,0,0,1
+2019,kujawsko-pomorskie,NA,Gruszki,4,Detractor,<30,Wyższe,Główny agronom,1,0,0,1
+2019,kujawsko-pomorskie,NA,Wisnie,9,Promotor,<30,Wyższe,Główny agronom,0,0,1,1
+2019,kujawsko-pomorskie,NA,Borowki,9,Promotor,<30,Wyższe,Główny agronom,0,0,1,1
+2019,kujawsko-pomorskie,NA,Porzeczki,8,Neutral,<30,Wyższe,Główny agronom,0,1,0,1
+2019,kujawsko-pomorskie,NA,Maliny,1,Detractor,<30,Wyższe,Główny agronom,1,0,0,1
+2019,kujawsko-pomorskie,NA,Aronia,4,Detractor,<30,Wyższe,Główny agronom,1,0,0,1
+2019,kujawsko-pomorskie,NA,Jagody,NA,NA,<30,Wyższe,Główny agronom,NA,NA,NA,1
+2024,kujawsko-pomorskie,NA,Jablka,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2024,kujawsko-pomorskie,NA,Truskawki,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2024,kujawsko-pomorskie,NA,Sliwki,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2024,kujawsko-pomorskie,NA,Gruszki,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2024,kujawsko-pomorskie,NA,Wisnie,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2024,kujawsko-pomorskie,NA,Borowki,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2024,kujawsko-pomorskie,NA,Porzeczki,2,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2024,kujawsko-pomorskie,NA,Maliny,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2024,kujawsko-pomorskie,NA,Aronia,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2024,kujawsko-pomorskie,NA,Jagody,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2026,kujawsko-pomorskie,50-100 Ha,Jablka,10,Promotor,50+,Średnie techniczne,Główny agronom,0,0,1,1
+2026,kujawsko-pomorskie,50-100 Ha,Truskawki,10,Promotor,50+,Średnie techniczne,Główny agronom,0,0,1,1
+2026,kujawsko-pomorskie,50-100 Ha,Sliwki,7,Neutral,50+,Średnie techniczne,Główny agronom,0,1,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Gruszki,4,Detractor,50+,Średnie techniczne,Główny agronom,1,0,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Wisnie,5,Detractor,50+,Średnie techniczne,Główny agronom,1,0,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Borowki,7,Neutral,50+,Średnie techniczne,Główny agronom,0,1,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,Główny agronom,0,1,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Maliny,4,Detractor,50+,Średnie techniczne,Główny agronom,1,0,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Aronia,6,Detractor,50+,Średnie techniczne,Główny agronom,1,0,0,1
+2026,kujawsko-pomorskie,50-100 Ha,Jagody,8,Neutral,50+,Średnie techniczne,Główny agronom,0,1,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Jablka,NA,NA,50+,Wyższe,Właściciel,NA,NA,NA,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Truskawki,2,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Sliwki,8,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Gruszki,8,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Wisnie,5,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Borowki,6,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Porzeczki,2,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Maliny,4,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Aronia,8,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2036,kujawsko-pomorskie,Więcej niż 250 Ha,Jagody,9,Promotor,50+,Wyższe,Właściciel,0,0,1,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Jablka,NA,NA,40-49,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Truskawki,5,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Sliwki,9,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Gruszki,9,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Wisnie,1,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Borowki,4,Detractor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Maliny,7,Neutral,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Aronia,10,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2051,kujawsko-pomorskie,Więcej niż 250 Ha,Jagody,9,Promotor,40-49,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2057,kujawsko-pomorskie,100-250 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2057,kujawsko-pomorskie,100-250 Ha,Truskawki,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2057,kujawsko-pomorskie,100-250 Ha,Sliwki,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2057,kujawsko-pomorskie,100-250 Ha,Gruszki,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2057,kujawsko-pomorskie,100-250 Ha,Wisnie,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2057,kujawsko-pomorskie,100-250 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2057,kujawsko-pomorskie,100-250 Ha,Porzeczki,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2057,kujawsko-pomorskie,100-250 Ha,Maliny,8,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2057,kujawsko-pomorskie,100-250 Ha,Aronia,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2057,kujawsko-pomorskie,100-250 Ha,Jagody,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2061,lubelskie,NA,Jablka,10,Promotor,50+,Wyższe,???,0,0,1,1
+2061,lubelskie,NA,Truskawki,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2061,lubelskie,NA,Sliwki,8,Neutral,50+,Wyższe,???,0,1,0,1
+2061,lubelskie,NA,Gruszki,4,Detractor,50+,Wyższe,???,1,0,0,1
+2061,lubelskie,NA,Wisnie,8,Neutral,50+,Wyższe,???,0,1,0,1
+2061,lubelskie,NA,Borowki,9,Promotor,50+,Wyższe,???,0,0,1,1
+2061,lubelskie,NA,Porzeczki,10,Promotor,50+,Wyższe,???,0,0,1,1
+2061,lubelskie,NA,Maliny,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2061,lubelskie,NA,Aronia,6,Detractor,50+,Wyższe,???,1,0,0,1
+2061,lubelskie,NA,Jagody,7,Neutral,50+,Wyższe,???,0,1,0,1
+2064,lubelskie,NA,Jablka,4,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2064,lubelskie,NA,Truskawki,10,Promotor,30-39,Średnie techniczne,???,0,0,1,1
+2064,lubelskie,NA,Sliwki,3,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2064,lubelskie,NA,Gruszki,2,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2064,lubelskie,NA,Wisnie,NA,NA,30-39,Średnie techniczne,???,NA,NA,NA,1
+2064,lubelskie,NA,Borowki,NA,NA,30-39,Średnie techniczne,???,NA,NA,NA,1
+2064,lubelskie,NA,Porzeczki,4,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2064,lubelskie,NA,Maliny,10,Promotor,30-39,Średnie techniczne,???,0,0,1,1
+2064,lubelskie,NA,Aronia,6,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2064,lubelskie,NA,Jagody,NA,NA,30-39,Średnie techniczne,???,NA,NA,NA,1
+2069,lubelskie,Więcej niż 250 Ha,Jablka,9,Promotor,<30,Wyższe rolnicze,Główny agronom,0,0,1,1
+2069,lubelskie,Więcej niż 250 Ha,Truskawki,7,Neutral,<30,Wyższe rolnicze,Główny agronom,0,1,0,1
+2069,lubelskie,Więcej niż 250 Ha,Sliwki,3,Detractor,<30,Wyższe rolnicze,Główny agronom,1,0,0,1
+2069,lubelskie,Więcej niż 250 Ha,Gruszki,NA,NA,<30,Wyższe rolnicze,Główny agronom,NA,NA,NA,1
+2069,lubelskie,Więcej niż 250 Ha,Wisnie,8,Neutral,<30,Wyższe rolnicze,Główny agronom,0,1,0,1
+2069,lubelskie,Więcej niż 250 Ha,Borowki,1,Detractor,<30,Wyższe rolnicze,Główny agronom,1,0,0,1
+2069,lubelskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,<30,Wyższe rolnicze,Główny agronom,0,1,0,1
+2069,lubelskie,Więcej niż 250 Ha,Maliny,10,Promotor,<30,Wyższe rolnicze,Główny agronom,0,0,1,1
+2069,lubelskie,Więcej niż 250 Ha,Aronia,4,Detractor,<30,Wyższe rolnicze,Główny agronom,1,0,0,1
+2069,lubelskie,Więcej niż 250 Ha,Jagody,10,Promotor,<30,Wyższe rolnicze,Główny agronom,0,0,1,1
+2070,lubelskie,Więcej niż 250 Ha,Jablka,5,Detractor,50+,Wyższe,???,1,0,0,1
+2070,lubelskie,Więcej niż 250 Ha,Truskawki,5,Detractor,50+,Wyższe,???,1,0,0,1
+2070,lubelskie,Więcej niż 250 Ha,Sliwki,3,Detractor,50+,Wyższe,???,1,0,0,1
+2070,lubelskie,Więcej niż 250 Ha,Gruszki,8,Neutral,50+,Wyższe,???,0,1,0,1
+2070,lubelskie,Więcej niż 250 Ha,Wisnie,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2070,lubelskie,Więcej niż 250 Ha,Borowki,1,Detractor,50+,Wyższe,???,1,0,0,1
+2070,lubelskie,Więcej niż 250 Ha,Porzeczki,10,Promotor,50+,Wyższe,???,0,0,1,1
+2070,lubelskie,Więcej niż 250 Ha,Maliny,7,Neutral,50+,Wyższe,???,0,1,0,1
+2070,lubelskie,Więcej niż 250 Ha,Aronia,10,Promotor,50+,Wyższe,???,0,0,1,1
+2070,lubelskie,Więcej niż 250 Ha,Jagody,7,Neutral,50+,Wyższe,???,0,1,0,1
+2082,lubelskie,Więcej niż 250 Ha,Jablka,6,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2082,lubelskie,Więcej niż 250 Ha,Truskawki,7,Neutral,30-39,Wyższe,Główny agronom,0,1,0,1
+2082,lubelskie,Więcej niż 250 Ha,Sliwki,9,Promotor,30-39,Wyższe,Główny agronom,0,0,1,1
+2082,lubelskie,Więcej niż 250 Ha,Gruszki,NA,NA,30-39,Wyższe,Główny agronom,NA,NA,NA,1
+2082,lubelskie,Więcej niż 250 Ha,Wisnie,2,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2082,lubelskie,Więcej niż 250 Ha,Borowki,5,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2082,lubelskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,30-39,Wyższe,Główny agronom,0,1,0,1
+2082,lubelskie,Więcej niż 250 Ha,Maliny,1,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2082,lubelskie,Więcej niż 250 Ha,Aronia,2,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2082,lubelskie,Więcej niż 250 Ha,Jagody,6,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2083,lubelskie,Więcej niż 250 Ha,Jablka,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2083,lubelskie,Więcej niż 250 Ha,Truskawki,1,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2083,lubelskie,Więcej niż 250 Ha,Sliwki,10,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2083,lubelskie,Więcej niż 250 Ha,Gruszki,10,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2083,lubelskie,Więcej niż 250 Ha,Wisnie,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2083,lubelskie,Więcej niż 250 Ha,Borowki,2,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2083,lubelskie,Więcej niż 250 Ha,Porzeczki,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2083,lubelskie,Więcej niż 250 Ha,Maliny,7,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2083,lubelskie,Więcej niż 250 Ha,Aronia,NA,NA,50+,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2083,lubelskie,Więcej niż 250 Ha,Jagody,2,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2088,lubelskie,25-50 Ha,Jablka,2,Detractor,50+,Wyższe,???,1,0,0,1
+2088,lubelskie,25-50 Ha,Truskawki,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2088,lubelskie,25-50 Ha,Sliwki,2,Detractor,50+,Wyższe,???,1,0,0,1
+2088,lubelskie,25-50 Ha,Gruszki,9,Promotor,50+,Wyższe,???,0,0,1,1
+2088,lubelskie,25-50 Ha,Wisnie,1,Detractor,50+,Wyższe,???,1,0,0,1
+2088,lubelskie,25-50 Ha,Borowki,6,Detractor,50+,Wyższe,???,1,0,0,1
+2088,lubelskie,25-50 Ha,Porzeczki,1,Detractor,50+,Wyższe,???,1,0,0,1
+2088,lubelskie,25-50 Ha,Maliny,3,Detractor,50+,Wyższe,???,1,0,0,1
+2088,lubelskie,25-50 Ha,Aronia,7,Neutral,50+,Wyższe,???,0,1,0,1
+2088,lubelskie,25-50 Ha,Jagody,8,Neutral,50+,Wyższe,???,0,1,0,1
+2101,lubuskie,25-50 Ha,Jablka,7,Neutral,30-39,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2101,lubuskie,25-50 Ha,Truskawki,NA,NA,30-39,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2101,lubuskie,25-50 Ha,Sliwki,9,Promotor,30-39,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2101,lubuskie,25-50 Ha,Gruszki,NA,NA,30-39,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2101,lubuskie,25-50 Ha,Wisnie,7,Neutral,30-39,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2101,lubuskie,25-50 Ha,Borowki,1,Detractor,30-39,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2101,lubuskie,25-50 Ha,Porzeczki,9,Promotor,30-39,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2101,lubuskie,25-50 Ha,Maliny,8,Neutral,30-39,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2101,lubuskie,25-50 Ha,Aronia,10,Promotor,30-39,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2101,lubuskie,25-50 Ha,Jagody,3,Detractor,30-39,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2124,lubuskie,NA,Jablka,6,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2124,lubuskie,NA,Truskawki,5,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2124,lubuskie,NA,Sliwki,2,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2124,lubuskie,NA,Gruszki,4,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2124,lubuskie,NA,Wisnie,1,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2124,lubuskie,NA,Borowki,8,Neutral,40-49,Wyższe,Właściciel,0,1,0,1
+2124,lubuskie,NA,Porzeczki,NA,NA,40-49,Wyższe,Właściciel,NA,NA,NA,1
+2124,lubuskie,NA,Maliny,NA,NA,40-49,Wyższe,Właściciel,NA,NA,NA,1
+2124,lubuskie,NA,Aronia,2,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2124,lubuskie,NA,Jagody,5,Detractor,40-49,Wyższe,Właściciel,1,0,0,1
+2128,lubuskie,100-250 Ha,Jablka,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2128,lubuskie,100-250 Ha,Truskawki,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2128,lubuskie,100-250 Ha,Sliwki,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2128,lubuskie,100-250 Ha,Gruszki,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2128,lubuskie,100-250 Ha,Wisnie,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2128,lubuskie,100-250 Ha,Borowki,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2128,lubuskie,100-250 Ha,Porzeczki,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2128,lubuskie,100-250 Ha,Maliny,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2128,lubuskie,100-250 Ha,Aronia,3,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2128,lubuskie,100-250 Ha,Jagody,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2138,lubuskie,Więcej niż 250 Ha,Jablka,NA,NA,<30,Wyższe,???,NA,NA,NA,1
+2138,lubuskie,Więcej niż 250 Ha,Truskawki,6,Detractor,<30,Wyższe,???,1,0,0,1
+2138,lubuskie,Więcej niż 250 Ha,Sliwki,NA,NA,<30,Wyższe,???,NA,NA,NA,1
+2138,lubuskie,Więcej niż 250 Ha,Gruszki,9,Promotor,<30,Wyższe,???,0,0,1,1
+2138,lubuskie,Więcej niż 250 Ha,Wisnie,NA,NA,<30,Wyższe,???,NA,NA,NA,1
+2138,lubuskie,Więcej niż 250 Ha,Borowki,9,Promotor,<30,Wyższe,???,0,0,1,1
+2138,lubuskie,Więcej niż 250 Ha,Porzeczki,2,Detractor,<30,Wyższe,???,1,0,0,1
+2138,lubuskie,Więcej niż 250 Ha,Maliny,7,Neutral,<30,Wyższe,???,0,1,0,1
+2138,lubuskie,Więcej niż 250 Ha,Aronia,1,Detractor,<30,Wyższe,???,1,0,0,1
+2138,lubuskie,Więcej niż 250 Ha,Jagody,3,Detractor,<30,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Truskawki,9,Promotor,50+,Wyższe,???,0,0,1,1
+2150,łódzkie,Więcej niż 250 Ha,Sliwki,2,Detractor,50+,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Gruszki,6,Detractor,50+,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Wisnie,6,Detractor,50+,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Borowki,2,Detractor,50+,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Porzeczki,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2150,łódzkie,Więcej niż 250 Ha,Maliny,2,Detractor,50+,Wyższe,???,1,0,0,1
+2150,łódzkie,Więcej niż 250 Ha,Aronia,10,Promotor,50+,Wyższe,???,0,0,1,1
+2150,łódzkie,Więcej niż 250 Ha,Jagody,1,Detractor,50+,Wyższe,???,1,0,0,1
+2159,łódzkie,5-25 Ha,Jablka,6,Detractor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2159,łódzkie,5-25 Ha,Truskawki,8,Neutral,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,0,1,0,1
+2159,łódzkie,5-25 Ha,Sliwki,10,Promotor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2159,łódzkie,5-25 Ha,Gruszki,4,Detractor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2159,łódzkie,5-25 Ha,Wisnie,10,Promotor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2159,łódzkie,5-25 Ha,Borowki,1,Detractor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2159,łódzkie,5-25 Ha,Porzeczki,2,Detractor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2159,łódzkie,5-25 Ha,Maliny,5,Detractor,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2159,łódzkie,5-25 Ha,Aronia,NA,NA,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,NA,NA,NA,1
+2159,łódzkie,5-25 Ha,Jagody,7,Neutral,50+,Wyższe rolnicze,Dyrektor / wicedyrektor,0,1,0,1
+2163,łódzkie,Więcej niż 250 Ha,Jablka,10,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2163,łódzkie,Więcej niż 250 Ha,Truskawki,NA,NA,50+,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2163,łódzkie,Więcej niż 250 Ha,Sliwki,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2163,łódzkie,Więcej niż 250 Ha,Gruszki,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2163,łódzkie,Więcej niż 250 Ha,Wisnie,10,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2163,łódzkie,Więcej niż 250 Ha,Borowki,7,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2163,łódzkie,Więcej niż 250 Ha,Porzeczki,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2163,łódzkie,Więcej niż 250 Ha,Maliny,NA,NA,50+,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2163,łódzkie,Więcej niż 250 Ha,Aronia,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2163,łódzkie,Więcej niż 250 Ha,Jagody,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Jablka,2,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Truskawki,6,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Sliwki,9,Promotor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2164,łódzkie,Więcej niż 250 Ha,Gruszki,NA,NA,40-49,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2164,łódzkie,Więcej niż 250 Ha,Wisnie,3,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Borowki,3,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Porzeczki,1,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Maliny,8,Neutral,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2164,łódzkie,Więcej niż 250 Ha,Aronia,3,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2164,łódzkie,Więcej niż 250 Ha,Jagody,3,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2167,łódzkie,5-25 Ha,Jablka,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2167,łódzkie,5-25 Ha,Truskawki,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2167,łódzkie,5-25 Ha,Sliwki,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2167,łódzkie,5-25 Ha,Gruszki,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2167,łódzkie,5-25 Ha,Wisnie,9,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2167,łódzkie,5-25 Ha,Borowki,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2167,łódzkie,5-25 Ha,Porzeczki,4,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2167,łódzkie,5-25 Ha,Maliny,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2167,łódzkie,5-25 Ha,Aronia,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2167,łódzkie,5-25 Ha,Jagody,3,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2180,małopolskie,Więcej niż 250 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2180,małopolskie,Więcej niż 250 Ha,Truskawki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2180,małopolskie,Więcej niż 250 Ha,Sliwki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2180,małopolskie,Więcej niż 250 Ha,Gruszki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2180,małopolskie,Więcej niż 250 Ha,Wisnie,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2180,małopolskie,Więcej niż 250 Ha,Borowki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2180,małopolskie,Więcej niż 250 Ha,Porzeczki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2180,małopolskie,Więcej niż 250 Ha,Maliny,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+2180,małopolskie,Więcej niż 250 Ha,Aronia,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2180,małopolskie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Jablka,4,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Truskawki,1,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Sliwki,4,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Gruszki,7,Neutral,30-39,Średnie techniczne,???,0,1,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Wisnie,5,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Borowki,5,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Porzeczki,10,Promotor,30-39,Średnie techniczne,???,0,0,1,1
+2196,mazowieckie,Więcej niż 250 Ha,Maliny,2,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Aronia,2,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2196,mazowieckie,Więcej niż 250 Ha,Jagody,3,Detractor,30-39,Średnie techniczne,???,1,0,0,1
+2198,mazowieckie,5-25 Ha,Jablka,7,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2198,mazowieckie,5-25 Ha,Truskawki,7,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2198,mazowieckie,5-25 Ha,Sliwki,9,Promotor,50+,Wyższe,Właściciel,0,0,1,1
+2198,mazowieckie,5-25 Ha,Gruszki,8,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2198,mazowieckie,5-25 Ha,Wisnie,4,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2198,mazowieckie,5-25 Ha,Borowki,4,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2198,mazowieckie,5-25 Ha,Porzeczki,4,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2198,mazowieckie,5-25 Ha,Maliny,1,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2198,mazowieckie,5-25 Ha,Aronia,5,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2198,mazowieckie,5-25 Ha,Jagody,NA,NA,50+,Wyższe,Właściciel,NA,NA,NA,1
+2209,mazowieckie,25-50 Ha,Jablka,3,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2209,mazowieckie,25-50 Ha,Truskawki,9,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2209,mazowieckie,25-50 Ha,Sliwki,1,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2209,mazowieckie,25-50 Ha,Gruszki,6,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2209,mazowieckie,25-50 Ha,Wisnie,7,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2209,mazowieckie,25-50 Ha,Borowki,8,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2209,mazowieckie,25-50 Ha,Porzeczki,2,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2209,mazowieckie,25-50 Ha,Maliny,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2209,mazowieckie,25-50 Ha,Aronia,4,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2209,mazowieckie,25-50 Ha,Jagody,7,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2210,mazowieckie,25-50 Ha,Jablka,3,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Truskawki,2,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Sliwki,2,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Gruszki,2,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Wisnie,7,Neutral,30-39,Wyższe,???,0,1,0,1
+2210,mazowieckie,25-50 Ha,Borowki,1,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Porzeczki,6,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Maliny,10,Promotor,30-39,Wyższe,???,0,0,1,1
+2210,mazowieckie,25-50 Ha,Aronia,3,Detractor,30-39,Wyższe,???,1,0,0,1
+2210,mazowieckie,25-50 Ha,Jagody,2,Detractor,30-39,Wyższe,???,1,0,0,1
+2218,mazowieckie,100-250 Ha,Jablka,4,Detractor,50+,Wyższe,???,1,0,0,1
+2218,mazowieckie,100-250 Ha,Truskawki,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2218,mazowieckie,100-250 Ha,Sliwki,7,Neutral,50+,Wyższe,???,0,1,0,1
+2218,mazowieckie,100-250 Ha,Gruszki,6,Detractor,50+,Wyższe,???,1,0,0,1
+2218,mazowieckie,100-250 Ha,Wisnie,2,Detractor,50+,Wyższe,???,1,0,0,1
+2218,mazowieckie,100-250 Ha,Borowki,7,Neutral,50+,Wyższe,???,0,1,0,1
+2218,mazowieckie,100-250 Ha,Porzeczki,9,Promotor,50+,Wyższe,???,0,0,1,1
+2218,mazowieckie,100-250 Ha,Maliny,1,Detractor,50+,Wyższe,???,1,0,0,1
+2218,mazowieckie,100-250 Ha,Aronia,6,Detractor,50+,Wyższe,???,1,0,0,1
+2218,mazowieckie,100-250 Ha,Jagody,7,Neutral,50+,Wyższe,???,0,1,0,1
+2223,mazowieckie,100-250 Ha,Jablka,NA,NA,40-49,Wyższe rolnicze,Właściciel,NA,NA,NA,1
+2223,mazowieckie,100-250 Ha,Truskawki,1,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+2223,mazowieckie,100-250 Ha,Sliwki,3,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+2223,mazowieckie,100-250 Ha,Gruszki,4,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+2223,mazowieckie,100-250 Ha,Wisnie,NA,NA,40-49,Wyższe rolnicze,Właściciel,NA,NA,NA,1
+2223,mazowieckie,100-250 Ha,Borowki,9,Promotor,40-49,Wyższe rolnicze,Właściciel,0,0,1,1
+2223,mazowieckie,100-250 Ha,Porzeczki,7,Neutral,40-49,Wyższe rolnicze,Właściciel,0,1,0,1
+2223,mazowieckie,100-250 Ha,Maliny,4,Detractor,40-49,Wyższe rolnicze,Właściciel,1,0,0,1
+2223,mazowieckie,100-250 Ha,Aronia,10,Promotor,40-49,Wyższe rolnicze,Właściciel,0,0,1,1
+2223,mazowieckie,100-250 Ha,Jagody,8,Neutral,40-49,Wyższe rolnicze,Właściciel,0,1,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Jablka,5,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Truskawki,10,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2231,mazowieckie,Więcej niż 250 Ha,Sliwki,6,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Gruszki,3,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Wisnie,6,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Borowki,NA,NA,40-49,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+2231,mazowieckie,Więcej niż 250 Ha,Porzeczki,4,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Maliny,10,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2231,mazowieckie,Więcej niż 250 Ha,Aronia,1,Detractor,40-49,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2231,mazowieckie,Więcej niż 250 Ha,Jagody,9,Promotor,40-49,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2262,mazowieckie,50-100 Ha,Jablka,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2262,mazowieckie,50-100 Ha,Truskawki,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2262,mazowieckie,50-100 Ha,Sliwki,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2262,mazowieckie,50-100 Ha,Gruszki,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+2262,mazowieckie,50-100 Ha,Wisnie,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+2262,mazowieckie,50-100 Ha,Borowki,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2262,mazowieckie,50-100 Ha,Porzeczki,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+2262,mazowieckie,50-100 Ha,Maliny,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2262,mazowieckie,50-100 Ha,Aronia,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2262,mazowieckie,50-100 Ha,Jagody,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+2269,mazowieckie,100-250 Ha,Jablka,4,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2269,mazowieckie,100-250 Ha,Truskawki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2269,mazowieckie,100-250 Ha,Sliwki,3,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2269,mazowieckie,100-250 Ha,Gruszki,4,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2269,mazowieckie,100-250 Ha,Wisnie,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+2269,mazowieckie,100-250 Ha,Borowki,2,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2269,mazowieckie,100-250 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+2269,mazowieckie,100-250 Ha,Maliny,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2269,mazowieckie,100-250 Ha,Aronia,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+2269,mazowieckie,100-250 Ha,Jagody,2,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Jablka,3,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Truskawki,5,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Sliwki,6,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Gruszki,1,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Wisnie,10,Promotor,<30,Wyższe,Właściciel,0,0,1,1
+2270,mazowieckie,Więcej niż 250 Ha,Borowki,4,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Porzeczki,6,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Maliny,NA,NA,<30,Wyższe,Właściciel,NA,NA,NA,1
+2270,mazowieckie,Więcej niż 250 Ha,Aronia,5,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2270,mazowieckie,Więcej niż 250 Ha,Jagody,3,Detractor,<30,Wyższe,Właściciel,1,0,0,1
+2283,opolskie,5-25 Ha,Jablka,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2283,opolskie,5-25 Ha,Truskawki,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2283,opolskie,5-25 Ha,Sliwki,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2283,opolskie,5-25 Ha,Gruszki,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2283,opolskie,5-25 Ha,Wisnie,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2283,opolskie,5-25 Ha,Borowki,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2283,opolskie,5-25 Ha,Porzeczki,8,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2283,opolskie,5-25 Ha,Maliny,10,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2283,opolskie,5-25 Ha,Aronia,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2283,opolskie,5-25 Ha,Jagody,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2291,opolskie,NA,Jablka,1,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2291,opolskie,NA,Truskawki,10,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Sliwki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Gruszki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Wisnie,10,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Borowki,7,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+2291,opolskie,NA,Porzeczki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Maliny,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Aronia,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2291,opolskie,NA,Jagody,5,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2300,opolskie,5-25 Ha,Jablka,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2300,opolskie,5-25 Ha,Truskawki,2,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2300,opolskie,5-25 Ha,Sliwki,1,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2300,opolskie,5-25 Ha,Gruszki,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2300,opolskie,5-25 Ha,Wisnie,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2300,opolskie,5-25 Ha,Borowki,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2300,opolskie,5-25 Ha,Porzeczki,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2300,opolskie,5-25 Ha,Maliny,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2300,opolskie,5-25 Ha,Aronia,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2300,opolskie,5-25 Ha,Jagody,10,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2309,podkarpackie,Więcej niż 250 Ha,Jablka,5,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Truskawki,2,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Sliwki,2,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Gruszki,10,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2309,podkarpackie,Więcej niż 250 Ha,Wisnie,5,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Borowki,4,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Porzeczki,NA,NA,50+,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2309,podkarpackie,Więcej niż 250 Ha,Maliny,3,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Aronia,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2309,podkarpackie,Więcej niż 250 Ha,Jagody,NA,NA,50+,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2311,podkarpackie,Więcej niż 250 Ha,Jablka,4,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+2311,podkarpackie,Więcej niż 250 Ha,Truskawki,NA,NA,30-39,Średnie techniczne,Główny agronom,NA,NA,NA,1
+2311,podkarpackie,Więcej niż 250 Ha,Sliwki,8,Neutral,30-39,Średnie techniczne,Główny agronom,0,1,0,1
+2311,podkarpackie,Więcej niż 250 Ha,Gruszki,NA,NA,30-39,Średnie techniczne,Główny agronom,NA,NA,NA,1
+2311,podkarpackie,Więcej niż 250 Ha,Wisnie,9,Promotor,30-39,Średnie techniczne,Główny agronom,0,0,1,1
+2311,podkarpackie,Więcej niż 250 Ha,Borowki,NA,NA,30-39,Średnie techniczne,Główny agronom,NA,NA,NA,1
+2311,podkarpackie,Więcej niż 250 Ha,Porzeczki,10,Promotor,30-39,Średnie techniczne,Główny agronom,0,0,1,1
+2311,podkarpackie,Więcej niż 250 Ha,Maliny,3,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+2311,podkarpackie,Więcej niż 250 Ha,Aronia,3,Detractor,30-39,Średnie techniczne,Główny agronom,1,0,0,1
+2311,podkarpackie,Więcej niż 250 Ha,Jagody,7,Neutral,30-39,Średnie techniczne,Główny agronom,0,1,0,1
+2316,podkarpackie,5-25 Ha,Jablka,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2316,podkarpackie,5-25 Ha,Truskawki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2316,podkarpackie,5-25 Ha,Sliwki,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2316,podkarpackie,5-25 Ha,Gruszki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2316,podkarpackie,5-25 Ha,Wisnie,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2316,podkarpackie,5-25 Ha,Borowki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2316,podkarpackie,5-25 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2316,podkarpackie,5-25 Ha,Maliny,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+2316,podkarpackie,5-25 Ha,Aronia,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2316,podkarpackie,5-25 Ha,Jagody,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2326,podkarpackie,100-250 Ha,Jablka,3,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2326,podkarpackie,100-250 Ha,Truskawki,1,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2326,podkarpackie,100-250 Ha,Sliwki,3,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2326,podkarpackie,100-250 Ha,Gruszki,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2326,podkarpackie,100-250 Ha,Wisnie,9,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2326,podkarpackie,100-250 Ha,Borowki,NA,NA,50+,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2326,podkarpackie,100-250 Ha,Porzeczki,5,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2326,podkarpackie,100-250 Ha,Maliny,2,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2326,podkarpackie,100-250 Ha,Aronia,3,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2326,podkarpackie,100-250 Ha,Jagody,2,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2329,podkarpackie,NA,Jablka,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Truskawki,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Sliwki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Gruszki,8,Neutral,50+,Średnie ogólne,???,0,1,0,1
+2329,podkarpackie,NA,Wisnie,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Borowki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Porzeczki,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Maliny,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2329,podkarpackie,NA,Aronia,10,Promotor,50+,Średnie ogólne,???,0,0,1,1
+2329,podkarpackie,NA,Jagody,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2341,podlaskie,Więcej niż 250 Ha,Jablka,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2341,podlaskie,Więcej niż 250 Ha,Truskawki,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2341,podlaskie,Więcej niż 250 Ha,Sliwki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2341,podlaskie,Więcej niż 250 Ha,Gruszki,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2341,podlaskie,Więcej niż 250 Ha,Wisnie,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2341,podlaskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+2341,podlaskie,Więcej niż 250 Ha,Porzeczki,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2341,podlaskie,Więcej niż 250 Ha,Maliny,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+2341,podlaskie,Więcej niż 250 Ha,Aronia,3,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2341,podlaskie,Więcej niż 250 Ha,Jagody,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2343,podlaskie,50-100 Ha,Jablka,NA,NA,40-49,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2343,podlaskie,50-100 Ha,Truskawki,4,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+2343,podlaskie,50-100 Ha,Sliwki,3,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+2343,podlaskie,50-100 Ha,Gruszki,NA,NA,40-49,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2343,podlaskie,50-100 Ha,Wisnie,9,Promotor,40-49,Wyższe,Agronom – ekspert,0,0,1,1
+2343,podlaskie,50-100 Ha,Borowki,3,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+2343,podlaskie,50-100 Ha,Porzeczki,10,Promotor,40-49,Wyższe,Agronom – ekspert,0,0,1,1
+2343,podlaskie,50-100 Ha,Maliny,1,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+2343,podlaskie,50-100 Ha,Aronia,7,Neutral,40-49,Wyższe,Agronom – ekspert,0,1,0,1
+2343,podlaskie,50-100 Ha,Jagody,1,Detractor,40-49,Wyższe,Agronom – ekspert,1,0,0,1
+2355,podlaskie,50-100 Ha,Jablka,10,Promotor,50+,Wyższe rolnicze,???,0,0,1,1
+2355,podlaskie,50-100 Ha,Truskawki,2,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2355,podlaskie,50-100 Ha,Sliwki,7,Neutral,50+,Wyższe rolnicze,???,0,1,0,1
+2355,podlaskie,50-100 Ha,Gruszki,5,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2355,podlaskie,50-100 Ha,Wisnie,10,Promotor,50+,Wyższe rolnicze,???,0,0,1,1
+2355,podlaskie,50-100 Ha,Borowki,6,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2355,podlaskie,50-100 Ha,Porzeczki,10,Promotor,50+,Wyższe rolnicze,???,0,0,1,1
+2355,podlaskie,50-100 Ha,Maliny,4,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2355,podlaskie,50-100 Ha,Aronia,1,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2355,podlaskie,50-100 Ha,Jagody,4,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2420,świętokrzyskie,50-100 Ha,Jablka,NA,NA,40-49,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2420,świętokrzyskie,50-100 Ha,Truskawki,NA,NA,40-49,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2420,świętokrzyskie,50-100 Ha,Sliwki,NA,NA,40-49,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2420,świętokrzyskie,50-100 Ha,Gruszki,8,Neutral,40-49,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2420,świętokrzyskie,50-100 Ha,Wisnie,5,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2420,świętokrzyskie,50-100 Ha,Borowki,7,Neutral,40-49,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2420,świętokrzyskie,50-100 Ha,Porzeczki,6,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2420,świętokrzyskie,50-100 Ha,Maliny,6,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2420,świętokrzyskie,50-100 Ha,Aronia,5,Detractor,40-49,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2420,świętokrzyskie,50-100 Ha,Jagody,8,Neutral,40-49,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2422,świętokrzyskie,25-50 Ha,Jablka,1,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2422,świętokrzyskie,25-50 Ha,Truskawki,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+2422,świętokrzyskie,25-50 Ha,Sliwki,2,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2422,świętokrzyskie,25-50 Ha,Gruszki,3,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2422,świętokrzyskie,25-50 Ha,Wisnie,8,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+2422,świętokrzyskie,25-50 Ha,Borowki,NA,NA,50+,Średnie ogólne,Główny agronom,NA,NA,NA,1
+2422,świętokrzyskie,25-50 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+2422,świętokrzyskie,25-50 Ha,Maliny,NA,NA,50+,Średnie ogólne,Główny agronom,NA,NA,NA,1
+2422,świętokrzyskie,25-50 Ha,Aronia,4,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2422,świętokrzyskie,25-50 Ha,Jagody,3,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2432,warmińsko-mazurskie,NA,Jablka,2,Detractor,50+,Wyższe rolnicze,Inne,1,0,0,1
+2432,warmińsko-mazurskie,NA,Truskawki,9,Promotor,50+,Wyższe rolnicze,Inne,0,0,1,1
+2432,warmińsko-mazurskie,NA,Sliwki,8,Neutral,50+,Wyższe rolnicze,Inne,0,1,0,1
+2432,warmińsko-mazurskie,NA,Gruszki,1,Detractor,50+,Wyższe rolnicze,Inne,1,0,0,1
+2432,warmińsko-mazurskie,NA,Wisnie,NA,NA,50+,Wyższe rolnicze,Inne,NA,NA,NA,1
+2432,warmińsko-mazurskie,NA,Borowki,2,Detractor,50+,Wyższe rolnicze,Inne,1,0,0,1
+2432,warmińsko-mazurskie,NA,Porzeczki,9,Promotor,50+,Wyższe rolnicze,Inne,0,0,1,1
+2432,warmińsko-mazurskie,NA,Maliny,NA,NA,50+,Wyższe rolnicze,Inne,NA,NA,NA,1
+2432,warmińsko-mazurskie,NA,Aronia,NA,NA,50+,Wyższe rolnicze,Inne,NA,NA,NA,1
+2432,warmińsko-mazurskie,NA,Jagody,1,Detractor,50+,Wyższe rolnicze,Inne,1,0,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Jablka,3,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Truskawki,3,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Sliwki,NA,NA,30-39,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Gruszki,9,Promotor,30-39,Wyższe,Agronom – ekspert,0,0,1,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Wisnie,8,Neutral,30-39,Wyższe,Agronom – ekspert,0,1,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Borowki,2,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Porzeczki,7,Neutral,30-39,Wyższe,Agronom – ekspert,0,1,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Maliny,5,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Aronia,5,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2437,warmińsko-mazurskie,Więcej niż 250 Ha,Jagody,6,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Jablka,2,Detractor,50+,Wyższe rolnicze,Główny agronom,1,0,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Truskawki,8,Neutral,50+,Wyższe rolnicze,Główny agronom,0,1,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Sliwki,NA,NA,50+,Wyższe rolnicze,Główny agronom,NA,NA,NA,1
+2438,warmińsko-mazurskie,100-250 Ha,Gruszki,1,Detractor,50+,Wyższe rolnicze,Główny agronom,1,0,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Wisnie,7,Neutral,50+,Wyższe rolnicze,Główny agronom,0,1,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Borowki,NA,NA,50+,Wyższe rolnicze,Główny agronom,NA,NA,NA,1
+2438,warmińsko-mazurskie,100-250 Ha,Porzeczki,3,Detractor,50+,Wyższe rolnicze,Główny agronom,1,0,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Maliny,10,Promotor,50+,Wyższe rolnicze,Główny agronom,0,0,1,1
+2438,warmińsko-mazurskie,100-250 Ha,Aronia,4,Detractor,50+,Wyższe rolnicze,Główny agronom,1,0,0,1
+2438,warmińsko-mazurskie,100-250 Ha,Jagody,9,Promotor,50+,Wyższe rolnicze,Główny agronom,0,0,1,1
+2442,wielkopolskie,100-250 Ha,Jablka,7,Neutral,50+,Wyższe rolnicze,???,0,1,0,1
+2442,wielkopolskie,100-250 Ha,Truskawki,7,Neutral,50+,Wyższe rolnicze,???,0,1,0,1
+2442,wielkopolskie,100-250 Ha,Sliwki,5,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2442,wielkopolskie,100-250 Ha,Gruszki,3,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2442,wielkopolskie,100-250 Ha,Wisnie,7,Neutral,50+,Wyższe rolnicze,???,0,1,0,1
+2442,wielkopolskie,100-250 Ha,Borowki,5,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2442,wielkopolskie,100-250 Ha,Porzeczki,7,Neutral,50+,Wyższe rolnicze,???,0,1,0,1
+2442,wielkopolskie,100-250 Ha,Maliny,3,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2442,wielkopolskie,100-250 Ha,Aronia,9,Promotor,50+,Wyższe rolnicze,???,0,0,1,1
+2442,wielkopolskie,100-250 Ha,Jagody,1,Detractor,50+,Wyższe rolnicze,???,1,0,0,1
+2446,wielkopolskie,50-100 Ha,Jablka,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2446,wielkopolskie,50-100 Ha,Truskawki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2446,wielkopolskie,50-100 Ha,Sliwki,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2446,wielkopolskie,50-100 Ha,Gruszki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2446,wielkopolskie,50-100 Ha,Wisnie,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2446,wielkopolskie,50-100 Ha,Borowki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2446,wielkopolskie,50-100 Ha,Porzeczki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2446,wielkopolskie,50-100 Ha,Maliny,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2446,wielkopolskie,50-100 Ha,Aronia,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2446,wielkopolskie,50-100 Ha,Jagody,NA,NA,50+,Średnie ogólne,Właściciel,NA,NA,NA,1
+2452,wielkopolskie,Więcej niż 250 Ha,Jablka,1,Detractor,30-39,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2452,wielkopolskie,Więcej niż 250 Ha,Truskawki,2,Detractor,30-39,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2452,wielkopolskie,Więcej niż 250 Ha,Sliwki,9,Promotor,30-39,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2452,wielkopolskie,Więcej niż 250 Ha,Gruszki,9,Promotor,30-39,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2452,wielkopolskie,Więcej niż 250 Ha,Wisnie,NA,NA,30-39,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2452,wielkopolskie,Więcej niż 250 Ha,Borowki,9,Promotor,30-39,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2452,wielkopolskie,Więcej niż 250 Ha,Porzeczki,3,Detractor,30-39,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2452,wielkopolskie,Więcej niż 250 Ha,Maliny,3,Detractor,30-39,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2452,wielkopolskie,Więcej niż 250 Ha,Aronia,6,Detractor,30-39,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2452,wielkopolskie,Więcej niż 250 Ha,Jagody,4,Detractor,30-39,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2457,wielkopolskie,5-25 Ha,Jablka,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2457,wielkopolskie,5-25 Ha,Truskawki,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2457,wielkopolskie,5-25 Ha,Sliwki,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2457,wielkopolskie,5-25 Ha,Gruszki,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2457,wielkopolskie,5-25 Ha,Wisnie,6,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2457,wielkopolskie,5-25 Ha,Borowki,10,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2457,wielkopolskie,5-25 Ha,Porzeczki,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2457,wielkopolskie,5-25 Ha,Maliny,9,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2457,wielkopolskie,5-25 Ha,Aronia,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2457,wielkopolskie,5-25 Ha,Jagody,4,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Jablka,4,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Truskawki,6,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Sliwki,3,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Gruszki,2,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Wisnie,9,Promotor,40-49,Wyższe rolnicze,Główny agronom,0,0,1,1
+2479,wielkopolskie,Więcej niż 250 Ha,Borowki,NA,NA,40-49,Wyższe rolnicze,Główny agronom,NA,NA,NA,1
+2479,wielkopolskie,Więcej niż 250 Ha,Porzeczki,5,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Maliny,5,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Aronia,2,Detractor,40-49,Wyższe rolnicze,Główny agronom,1,0,0,1
+2479,wielkopolskie,Więcej niż 250 Ha,Jagody,9,Promotor,40-49,Wyższe rolnicze,Główny agronom,0,0,1,1
+2484,wielkopolskie,50-100 Ha,Jablka,NA,NA,50+,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2484,wielkopolskie,50-100 Ha,Truskawki,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2484,wielkopolskie,50-100 Ha,Sliwki,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2484,wielkopolskie,50-100 Ha,Gruszki,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2484,wielkopolskie,50-100 Ha,Wisnie,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2484,wielkopolskie,50-100 Ha,Borowki,1,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2484,wielkopolskie,50-100 Ha,Porzeczki,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2484,wielkopolskie,50-100 Ha,Maliny,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2484,wielkopolskie,50-100 Ha,Aronia,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2484,wielkopolskie,50-100 Ha,Jagody,7,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2489,wielkopolskie,25-50 Ha,Jablka,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2489,wielkopolskie,25-50 Ha,Truskawki,2,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2489,wielkopolskie,25-50 Ha,Sliwki,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2489,wielkopolskie,25-50 Ha,Gruszki,4,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2489,wielkopolskie,25-50 Ha,Wisnie,3,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2489,wielkopolskie,25-50 Ha,Borowki,6,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2489,wielkopolskie,25-50 Ha,Porzeczki,4,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2489,wielkopolskie,25-50 Ha,Maliny,5,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2489,wielkopolskie,25-50 Ha,Aronia,8,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2489,wielkopolskie,25-50 Ha,Jagody,7,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Truskawki,6,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Sliwki,7,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Gruszki,5,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Wisnie,8,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Borowki,NA,NA,50+,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2500,wielkopolskie,Więcej niż 250 Ha,Porzeczki,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2500,wielkopolskie,Więcej niż 250 Ha,Maliny,5,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Aronia,3,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2500,wielkopolskie,Więcej niż 250 Ha,Jagody,NA,NA,50+,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2504,wielkopolskie,50-100 Ha,Jablka,5,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2504,wielkopolskie,50-100 Ha,Truskawki,10,Promotor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2504,wielkopolskie,50-100 Ha,Sliwki,4,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2504,wielkopolskie,50-100 Ha,Gruszki,2,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2504,wielkopolskie,50-100 Ha,Wisnie,4,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2504,wielkopolskie,50-100 Ha,Borowki,7,Neutral,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,0,1,0,1
+2504,wielkopolskie,50-100 Ha,Porzeczki,2,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2504,wielkopolskie,50-100 Ha,Maliny,8,Neutral,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,0,1,0,1
+2504,wielkopolskie,50-100 Ha,Aronia,3,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2504,wielkopolskie,50-100 Ha,Jagody,2,Detractor,40-49,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2509,wielkopolskie,25-50 Ha,Jablka,1,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2509,wielkopolskie,25-50 Ha,Truskawki,6,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2509,wielkopolskie,25-50 Ha,Sliwki,10,Promotor,40-49,Średnie techniczne,Właściciel,0,0,1,1
+2509,wielkopolskie,25-50 Ha,Gruszki,NA,NA,40-49,Średnie techniczne,Właściciel,NA,NA,NA,1
+2509,wielkopolskie,25-50 Ha,Wisnie,6,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2509,wielkopolskie,25-50 Ha,Borowki,1,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2509,wielkopolskie,25-50 Ha,Porzeczki,8,Neutral,40-49,Średnie techniczne,Właściciel,0,1,0,1
+2509,wielkopolskie,25-50 Ha,Maliny,3,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2509,wielkopolskie,25-50 Ha,Aronia,8,Neutral,40-49,Średnie techniczne,Właściciel,0,1,0,1
+2509,wielkopolskie,25-50 Ha,Jagody,2,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2520,wielkopolskie,5-25 Ha,Jablka,NA,NA,50+,Średnie techniczne,Właściciel,NA,NA,NA,1
+2520,wielkopolskie,5-25 Ha,Truskawki,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2520,wielkopolskie,5-25 Ha,Sliwki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2520,wielkopolskie,5-25 Ha,Gruszki,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2520,wielkopolskie,5-25 Ha,Wisnie,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2520,wielkopolskie,5-25 Ha,Borowki,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2520,wielkopolskie,5-25 Ha,Porzeczki,10,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+2520,wielkopolskie,5-25 Ha,Maliny,NA,NA,50+,Średnie techniczne,Właściciel,NA,NA,NA,1
+2520,wielkopolskie,5-25 Ha,Aronia,8,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2520,wielkopolskie,5-25 Ha,Jagody,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2527,wielkopolskie,5-25 Ha,Jablka,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+2527,wielkopolskie,5-25 Ha,Truskawki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+2527,wielkopolskie,5-25 Ha,Sliwki,9,Promotor,30-39,Średnie ogólne,Właściciel,0,0,1,1
+2527,wielkopolskie,5-25 Ha,Gruszki,NA,NA,30-39,Średnie ogólne,Właściciel,NA,NA,NA,1
+2527,wielkopolskie,5-25 Ha,Wisnie,8,Neutral,30-39,Średnie ogólne,Właściciel,0,1,0,1
+2527,wielkopolskie,5-25 Ha,Borowki,8,Neutral,30-39,Średnie ogólne,Właściciel,0,1,0,1
+2527,wielkopolskie,5-25 Ha,Porzeczki,3,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+2527,wielkopolskie,5-25 Ha,Maliny,4,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+2527,wielkopolskie,5-25 Ha,Aronia,3,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+2527,wielkopolskie,5-25 Ha,Jagody,6,Detractor,30-39,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Truskawki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2537,wielkopolskie,Więcej niż 250 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2537,wielkopolskie,Więcej niż 250 Ha,Gruszki,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Wisnie,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Borowki,3,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Maliny,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Aronia,6,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2537,wielkopolskie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Jablka,NA,NA,50+,Średnie techniczne,???,NA,NA,NA,1
+2538,wielkopolskie,Więcej niż 250 Ha,Truskawki,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Sliwki,6,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Gruszki,NA,NA,50+,Średnie techniczne,???,NA,NA,NA,1
+2538,wielkopolskie,Więcej niż 250 Ha,Wisnie,6,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Borowki,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Porzeczki,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2538,wielkopolskie,Więcej niż 250 Ha,Maliny,2,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Aronia,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2538,wielkopolskie,Więcej niż 250 Ha,Jagody,6,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Truskawki,2,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Sliwki,1,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Gruszki,4,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Wisnie,NA,NA,50+,Wyższe,Główny agronom,NA,NA,NA,1
+2545,wielkopolskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2545,wielkopolskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Maliny,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2545,wielkopolskie,Więcej niż 250 Ha,Aronia,4,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2545,wielkopolskie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Jablka,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Truskawki,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Sliwki,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Gruszki,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Wisnie,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Borowki,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Porzeczki,1,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Maliny,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Aronia,8,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2549,wielkopolskie,Więcej niż 250 Ha,Jagody,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2563,zachodniopomorskie),50-100 Ha,Jablka,1,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2563,zachodniopomorskie),50-100 Ha,Truskawki,8,Neutral,40-49,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2563,zachodniopomorskie),50-100 Ha,Sliwki,3,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2563,zachodniopomorskie),50-100 Ha,Gruszki,5,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2563,zachodniopomorskie),50-100 Ha,Wisnie,NA,NA,40-49,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2563,zachodniopomorskie),50-100 Ha,Borowki,9,Promotor,40-49,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2563,zachodniopomorskie),50-100 Ha,Porzeczki,9,Promotor,40-49,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2563,zachodniopomorskie),50-100 Ha,Maliny,4,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2563,zachodniopomorskie),50-100 Ha,Aronia,NA,NA,40-49,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2563,zachodniopomorskie),50-100 Ha,Jagody,1,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2568,zachodniopomorskie),100-250 Ha,Jablka,9,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2568,zachodniopomorskie),100-250 Ha,Truskawki,7,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2568,zachodniopomorskie),100-250 Ha,Sliwki,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2568,zachodniopomorskie),100-250 Ha,Gruszki,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2568,zachodniopomorskie),100-250 Ha,Wisnie,1,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2568,zachodniopomorskie),100-250 Ha,Borowki,1,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2568,zachodniopomorskie),100-250 Ha,Porzeczki,8,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2568,zachodniopomorskie),100-250 Ha,Maliny,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2568,zachodniopomorskie),100-250 Ha,Aronia,7,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2568,zachodniopomorskie),100-250 Ha,Jagody,7,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Jablka,10,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2571,dolnośląskie,Więcej niż 250 Ha,Truskawki,4,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Sliwki,3,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Gruszki,2,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Wisnie,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2571,dolnośląskie,Więcej niż 250 Ha,Porzeczki,7,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Maliny,10,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2571,dolnośląskie,Więcej niż 250 Ha,Aronia,3,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2571,dolnośląskie,Więcej niż 250 Ha,Jagody,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2574,dolnośląskie,100-250 Ha,Jablka,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2574,dolnośląskie,100-250 Ha,Truskawki,3,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2574,dolnośląskie,100-250 Ha,Sliwki,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2574,dolnośląskie,100-250 Ha,Gruszki,1,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2574,dolnośląskie,100-250 Ha,Wisnie,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2574,dolnośląskie,100-250 Ha,Borowki,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2574,dolnośląskie,100-250 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2574,dolnośląskie,100-250 Ha,Maliny,3,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2574,dolnośląskie,100-250 Ha,Aronia,10,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2574,dolnośląskie,100-250 Ha,Jagody,8,Neutral,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2603,dolnośląskie,Więcej niż 250 Ha,Jablka,NA,NA,40-49,Średnie ogólne,Główny agronom,NA,NA,NA,1
+2603,dolnośląskie,Więcej niż 250 Ha,Truskawki,NA,NA,40-49,Średnie ogólne,Główny agronom,NA,NA,NA,1
+2603,dolnośląskie,Więcej niż 250 Ha,Sliwki,1,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+2603,dolnośląskie,Więcej niż 250 Ha,Gruszki,8,Neutral,40-49,Średnie ogólne,Główny agronom,0,1,0,1
+2603,dolnośląskie,Więcej niż 250 Ha,Wisnie,2,Detractor,40-49,Średnie ogólne,Główny agronom,1,0,0,1
+2603,dolnośląskie,Więcej niż 250 Ha,Borowki,10,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+2603,dolnośląskie,Więcej niż 250 Ha,Porzeczki,7,Neutral,40-49,Średnie ogólne,Główny agronom,0,1,0,1
+2603,dolnośląskie,Więcej niż 250 Ha,Maliny,10,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+2603,dolnośląskie,Więcej niż 250 Ha,Aronia,8,Neutral,40-49,Średnie ogólne,Główny agronom,0,1,0,1
+2603,dolnośląskie,Więcej niż 250 Ha,Jagody,9,Promotor,40-49,Średnie ogólne,Główny agronom,0,0,1,1
+2613,dolnośląskie,25-50 Ha,Jablka,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Truskawki,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Sliwki,2,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Gruszki,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2613,dolnośląskie,25-50 Ha,Wisnie,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Borowki,3,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Porzeczki,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Maliny,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2613,dolnośląskie,25-50 Ha,Aronia,4,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2613,dolnośląskie,25-50 Ha,Jagody,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Jablka,9,Promotor,30-39,Wyższe,Agronom – ekspert,0,0,1,1
+2628,kujawsko-pomorskie,5-25 Ha,Truskawki,4,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Sliwki,6,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Gruszki,6,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Wisnie,NA,NA,30-39,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2628,kujawsko-pomorskie,5-25 Ha,Borowki,1,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Porzeczki,1,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Maliny,5,Detractor,30-39,Wyższe,Agronom – ekspert,1,0,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Aronia,8,Neutral,30-39,Wyższe,Agronom – ekspert,0,1,0,1
+2628,kujawsko-pomorskie,5-25 Ha,Jagody,7,Neutral,30-39,Wyższe,Agronom – ekspert,0,1,0,1
+2631,kujawsko-pomorskie,NA,Jablka,2,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2631,kujawsko-pomorskie,NA,Truskawki,9,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2631,kujawsko-pomorskie,NA,Sliwki,6,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2631,kujawsko-pomorskie,NA,Gruszki,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2631,kujawsko-pomorskie,NA,Wisnie,4,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2631,kujawsko-pomorskie,NA,Borowki,10,Promotor,50+,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2631,kujawsko-pomorskie,NA,Porzeczki,8,Neutral,50+,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2631,kujawsko-pomorskie,NA,Maliny,1,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2631,kujawsko-pomorskie,NA,Aronia,4,Detractor,50+,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2631,kujawsko-pomorskie,NA,Jagody,NA,NA,50+,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Jablka,4,Detractor,50+,Wyższe,???,1,0,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Truskawki,5,Detractor,50+,Wyższe,???,1,0,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Sliwki,3,Detractor,50+,Wyższe,???,1,0,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Gruszki,7,Neutral,50+,Wyższe,???,0,1,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Wisnie,8,Neutral,50+,Wyższe,???,0,1,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Borowki,10,Promotor,50+,Wyższe,???,0,0,1,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Porzeczki,4,Detractor,50+,Wyższe,???,1,0,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Maliny,7,Neutral,50+,Wyższe,???,0,1,0,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Aronia,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2634,kujawsko-pomorskie,Więcej niż 250 Ha,Jagody,NA,NA,50+,Wyższe,???,NA,NA,NA,1
+2638,kujawsko-pomorskie,5-25 Ha,Jablka,NA,NA,50+,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2638,kujawsko-pomorskie,5-25 Ha,Truskawki,10,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2638,kujawsko-pomorskie,5-25 Ha,Sliwki,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Gruszki,5,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Wisnie,4,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Borowki,2,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Porzeczki,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Maliny,1,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Aronia,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2638,kujawsko-pomorskie,5-25 Ha,Jagody,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Jablka,2,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Truskawki,2,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Sliwki,1,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Gruszki,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Wisnie,4,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Borowki,8,Neutral,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Porzeczki,NA,NA,30-39,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Maliny,5,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Aronia,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2643,kujawsko-pomorskie,Więcej niż 250 Ha,Jagody,9,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2647,kujawsko-pomorskie,100-250 Ha,Jablka,1,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2647,kujawsko-pomorskie,100-250 Ha,Truskawki,6,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2647,kujawsko-pomorskie,100-250 Ha,Sliwki,4,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2647,kujawsko-pomorskie,100-250 Ha,Gruszki,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2647,kujawsko-pomorskie,100-250 Ha,Wisnie,10,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2647,kujawsko-pomorskie,100-250 Ha,Borowki,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2647,kujawsko-pomorskie,100-250 Ha,Porzeczki,2,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2647,kujawsko-pomorskie,100-250 Ha,Maliny,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2647,kujawsko-pomorskie,100-250 Ha,Aronia,8,Neutral,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2647,kujawsko-pomorskie,100-250 Ha,Jagody,9,Promotor,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2660,kujawsko-pomorskie,100-250 Ha,Jablka,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Truskawki,4,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Sliwki,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Gruszki,3,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Wisnie,7,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Borowki,2,Detractor,50+,Wyższe,Agronom – ekspert,1,0,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Porzeczki,8,Neutral,50+,Wyższe,Agronom – ekspert,0,1,0,1
+2660,kujawsko-pomorskie,100-250 Ha,Maliny,9,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2660,kujawsko-pomorskie,100-250 Ha,Aronia,9,Promotor,50+,Wyższe,Agronom – ekspert,0,0,1,1
+2660,kujawsko-pomorskie,100-250 Ha,Jagody,NA,NA,50+,Wyższe,Agronom – ekspert,NA,NA,NA,1
+2670,kujawsko-pomorskie,50-100 Ha,Jablka,NA,NA,50+,Średnie ogólne,Główny agronom,NA,NA,NA,1
+2670,kujawsko-pomorskie,50-100 Ha,Truskawki,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2670,kujawsko-pomorskie,50-100 Ha,Sliwki,1,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2670,kujawsko-pomorskie,50-100 Ha,Gruszki,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2670,kujawsko-pomorskie,50-100 Ha,Wisnie,8,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+2670,kujawsko-pomorskie,50-100 Ha,Borowki,9,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+2670,kujawsko-pomorskie,50-100 Ha,Porzeczki,6,Detractor,50+,Średnie ogólne,Główny agronom,1,0,0,1
+2670,kujawsko-pomorskie,50-100 Ha,Maliny,10,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+2670,kujawsko-pomorskie,50-100 Ha,Aronia,10,Promotor,50+,Średnie ogólne,Główny agronom,0,0,1,1
+2670,kujawsko-pomorskie,50-100 Ha,Jagody,8,Neutral,50+,Średnie ogólne,Główny agronom,0,1,0,1
+2674,kujawsko-pomorskie,NA,Jablka,10,Promotor,40-49,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2674,kujawsko-pomorskie,NA,Truskawki,5,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2674,kujawsko-pomorskie,NA,Sliwki,1,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2674,kujawsko-pomorskie,NA,Gruszki,2,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2674,kujawsko-pomorskie,NA,Wisnie,NA,NA,40-49,Wyższe rolnicze,Agronom – ekspert,NA,NA,NA,1
+2674,kujawsko-pomorskie,NA,Borowki,7,Neutral,40-49,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2674,kujawsko-pomorskie,NA,Porzeczki,4,Detractor,40-49,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2674,kujawsko-pomorskie,NA,Maliny,7,Neutral,40-49,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2674,kujawsko-pomorskie,NA,Aronia,9,Promotor,40-49,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2674,kujawsko-pomorskie,NA,Jagody,9,Promotor,40-49,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2685,kujawsko-pomorskie,50-100 Ha,Jablka,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Truskawki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Sliwki,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Gruszki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Wisnie,10,Promotor,50+,Średnie ogólne,Właściciel,0,0,1,1
+2685,kujawsko-pomorskie,50-100 Ha,Borowki,8,Neutral,50+,Średnie ogólne,Właściciel,0,1,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Porzeczki,2,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Maliny,5,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Aronia,1,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2685,kujawsko-pomorskie,50-100 Ha,Jagody,4,Detractor,50+,Średnie ogólne,Właściciel,1,0,0,1
+2688,lubelskie,50-100 Ha,Jablka,4,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Truskawki,4,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Sliwki,NA,NA,30-39,Średnie ogólne,???,NA,NA,NA,1
+2688,lubelskie,50-100 Ha,Gruszki,3,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Wisnie,3,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Borowki,6,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Porzeczki,4,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Maliny,6,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Aronia,2,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2688,lubelskie,50-100 Ha,Jagody,4,Detractor,30-39,Średnie ogólne,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Jablka,4,Detractor,30-39,Wyższe,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Truskawki,1,Detractor,30-39,Wyższe,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Sliwki,NA,NA,30-39,Wyższe,???,NA,NA,NA,1
+2703,lubelskie,Więcej niż 250 Ha,Gruszki,5,Detractor,30-39,Wyższe,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Wisnie,4,Detractor,30-39,Wyższe,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Borowki,10,Promotor,30-39,Wyższe,???,0,0,1,1
+2703,lubelskie,Więcej niż 250 Ha,Porzeczki,4,Detractor,30-39,Wyższe,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Maliny,8,Neutral,30-39,Wyższe,???,0,1,0,1
+2703,lubelskie,Więcej niż 250 Ha,Aronia,5,Detractor,30-39,Wyższe,???,1,0,0,1
+2703,lubelskie,Więcej niż 250 Ha,Jagody,9,Promotor,30-39,Wyższe,???,0,0,1,1
+2707,lubelskie,Więcej niż 250 Ha,Jablka,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2707,lubelskie,Więcej niż 250 Ha,Truskawki,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2707,lubelskie,Więcej niż 250 Ha,Sliwki,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2707,lubelskie,Więcej niż 250 Ha,Gruszki,NA,NA,50+,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+2707,lubelskie,Więcej niż 250 Ha,Wisnie,NA,NA,50+,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+2707,lubelskie,Więcej niż 250 Ha,Borowki,5,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2707,lubelskie,Więcej niż 250 Ha,Porzeczki,NA,NA,50+,Średnie ogólne,Agronom – ekspert,NA,NA,NA,1
+2707,lubelskie,Więcej niż 250 Ha,Maliny,1,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2707,lubelskie,Więcej niż 250 Ha,Aronia,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2707,lubelskie,Więcej niż 250 Ha,Jagody,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2712,lubelskie,100-250 Ha,Jablka,3,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2712,lubelskie,100-250 Ha,Truskawki,NA,NA,40-49,Średnie techniczne,Właściciel,NA,NA,NA,1
+2712,lubelskie,100-250 Ha,Sliwki,10,Promotor,40-49,Średnie techniczne,Właściciel,0,0,1,1
+2712,lubelskie,100-250 Ha,Gruszki,NA,NA,40-49,Średnie techniczne,Właściciel,NA,NA,NA,1
+2712,lubelskie,100-250 Ha,Wisnie,1,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2712,lubelskie,100-250 Ha,Borowki,5,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2712,lubelskie,100-250 Ha,Porzeczki,5,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2712,lubelskie,100-250 Ha,Maliny,4,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2712,lubelskie,100-250 Ha,Aronia,3,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2712,lubelskie,100-250 Ha,Jagody,5,Detractor,40-49,Średnie techniczne,Właściciel,1,0,0,1
+2716,lubelskie,5-25 Ha,Jablka,1,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2716,lubelskie,5-25 Ha,Truskawki,6,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2716,lubelskie,5-25 Ha,Sliwki,7,Neutral,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2716,lubelskie,5-25 Ha,Gruszki,7,Neutral,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2716,lubelskie,5-25 Ha,Wisnie,10,Promotor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2716,lubelskie,5-25 Ha,Borowki,9,Promotor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2716,lubelskie,5-25 Ha,Porzeczki,6,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2716,lubelskie,5-25 Ha,Maliny,2,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2716,lubelskie,5-25 Ha,Aronia,2,Detractor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2716,lubelskie,5-25 Ha,Jagody,10,Promotor,40-49,Średnie techniczne,Dyrektor / wicedyrektor,0,0,1,1
+2719,lubelskie,100-250 Ha,Jablka,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2719,lubelskie,100-250 Ha,Truskawki,2,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2719,lubelskie,100-250 Ha,Sliwki,3,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2719,lubelskie,100-250 Ha,Gruszki,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2719,lubelskie,100-250 Ha,Wisnie,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2719,lubelskie,100-250 Ha,Borowki,1,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2719,lubelskie,100-250 Ha,Porzeczki,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2719,lubelskie,100-250 Ha,Maliny,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2719,lubelskie,100-250 Ha,Aronia,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2719,lubelskie,100-250 Ha,Jagody,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2727,lubelskie,NA,Jablka,9,Promotor,50+,Średnie techniczne,Agronom – ekspert,0,0,1,1
+2727,lubelskie,NA,Truskawki,1,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2727,lubelskie,NA,Sliwki,7,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2727,lubelskie,NA,Gruszki,5,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2727,lubelskie,NA,Wisnie,4,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2727,lubelskie,NA,Borowki,8,Neutral,50+,Średnie techniczne,Agronom – ekspert,0,1,0,1
+2727,lubelskie,NA,Porzeczki,NA,NA,50+,Średnie techniczne,Agronom – ekspert,NA,NA,NA,1
+2727,lubelskie,NA,Maliny,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2727,lubelskie,NA,Aronia,3,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2727,lubelskie,NA,Jagody,1,Detractor,50+,Średnie techniczne,Agronom – ekspert,1,0,0,1
+2744,lubuskie,100-250 Ha,Jablka,8,Neutral,40-49,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2744,lubuskie,100-250 Ha,Truskawki,3,Detractor,40-49,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2744,lubuskie,100-250 Ha,Sliwki,NA,NA,40-49,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2744,lubuskie,100-250 Ha,Gruszki,7,Neutral,40-49,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2744,lubuskie,100-250 Ha,Wisnie,1,Detractor,40-49,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2744,lubuskie,100-250 Ha,Borowki,4,Detractor,40-49,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2744,lubuskie,100-250 Ha,Porzeczki,5,Detractor,40-49,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2744,lubuskie,100-250 Ha,Maliny,10,Promotor,40-49,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2744,lubuskie,100-250 Ha,Aronia,NA,NA,40-49,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2744,lubuskie,100-250 Ha,Jagody,10,Promotor,40-49,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2750,lubuskie,Więcej niż 250 Ha,Jablka,1,Detractor,40-49,Wyższe,Główny agronom,1,0,0,1
+2750,lubuskie,Więcej niż 250 Ha,Truskawki,3,Detractor,40-49,Wyższe,Główny agronom,1,0,0,1
+2750,lubuskie,Więcej niż 250 Ha,Sliwki,3,Detractor,40-49,Wyższe,Główny agronom,1,0,0,1
+2750,lubuskie,Więcej niż 250 Ha,Gruszki,4,Detractor,40-49,Wyższe,Główny agronom,1,0,0,1
+2750,lubuskie,Więcej niż 250 Ha,Wisnie,7,Neutral,40-49,Wyższe,Główny agronom,0,1,0,1
+2750,lubuskie,Więcej niż 250 Ha,Borowki,1,Detractor,40-49,Wyższe,Główny agronom,1,0,0,1
+2750,lubuskie,Więcej niż 250 Ha,Porzeczki,2,Detractor,40-49,Wyższe,Główny agronom,1,0,0,1
+2750,lubuskie,Więcej niż 250 Ha,Maliny,NA,NA,40-49,Wyższe,Główny agronom,NA,NA,NA,1
+2750,lubuskie,Więcej niż 250 Ha,Aronia,7,Neutral,40-49,Wyższe,Główny agronom,0,1,0,1
+2750,lubuskie,Więcej niż 250 Ha,Jagody,8,Neutral,40-49,Wyższe,Główny agronom,0,1,0,1
+2769,lubuskie,Więcej niż 250 Ha,Jablka,NA,NA,50+,Wyższe rolnicze,Właściciel,NA,NA,NA,1
+2769,lubuskie,Więcej niż 250 Ha,Truskawki,5,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2769,lubuskie,Więcej niż 250 Ha,Sliwki,1,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2769,lubuskie,Więcej niż 250 Ha,Gruszki,8,Neutral,50+,Wyższe rolnicze,Właściciel,0,1,0,1
+2769,lubuskie,Więcej niż 250 Ha,Wisnie,6,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2769,lubuskie,Więcej niż 250 Ha,Borowki,5,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2769,lubuskie,Więcej niż 250 Ha,Porzeczki,NA,NA,50+,Wyższe rolnicze,Właściciel,NA,NA,NA,1
+2769,lubuskie,Więcej niż 250 Ha,Maliny,7,Neutral,50+,Wyższe rolnicze,Właściciel,0,1,0,1
+2769,lubuskie,Więcej niż 250 Ha,Aronia,5,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2769,lubuskie,Więcej niż 250 Ha,Jagody,6,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2773,lubuskie,NA,Jablka,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2773,lubuskie,NA,Truskawki,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2773,lubuskie,NA,Sliwki,8,Neutral,50+,Średnie ogólne,Agronom – ekspert,0,1,0,1
+2773,lubuskie,NA,Gruszki,2,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2773,lubuskie,NA,Wisnie,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2773,lubuskie,NA,Borowki,10,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2773,lubuskie,NA,Porzeczki,3,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2773,lubuskie,NA,Maliny,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2773,lubuskie,NA,Aronia,4,Detractor,50+,Średnie ogólne,Agronom – ekspert,1,0,0,1
+2773,lubuskie,NA,Jagody,9,Promotor,50+,Średnie ogólne,Agronom – ekspert,0,0,1,1
+2780,lubuskie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2780,lubuskie,Więcej niż 250 Ha,Truskawki,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2780,lubuskie,Więcej niż 250 Ha,Sliwki,2,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2780,lubuskie,Więcej niż 250 Ha,Gruszki,6,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2780,lubuskie,Więcej niż 250 Ha,Wisnie,NA,NA,50+,Wyższe,Dyrektor / wicedyrektor,NA,NA,NA,1
+2780,lubuskie,Więcej niż 250 Ha,Borowki,3,Detractor,50+,Wyższe,Dyrektor / wicedyrektor,1,0,0,1
+2780,lubuskie,Więcej niż 250 Ha,Porzeczki,8,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2780,lubuskie,Więcej niż 250 Ha,Maliny,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2780,lubuskie,Więcej niż 250 Ha,Aronia,9,Promotor,50+,Wyższe,Dyrektor / wicedyrektor,0,0,1,1
+2780,lubuskie,Więcej niż 250 Ha,Jagody,7,Neutral,50+,Wyższe,Dyrektor / wicedyrektor,0,1,0,1
+2790,łódzkie,Więcej niż 250 Ha,Jablka,2,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2790,łódzkie,Więcej niż 250 Ha,Truskawki,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+2790,łódzkie,Więcej niż 250 Ha,Sliwki,10,Promotor,50+,Średnie ogólne,???,0,0,1,1
+2790,łódzkie,Więcej niż 250 Ha,Gruszki,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2790,łódzkie,Więcej niż 250 Ha,Wisnie,NA,NA,50+,Średnie ogólne,???,NA,NA,NA,1
+2790,łódzkie,Więcej niż 250 Ha,Borowki,1,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2790,łódzkie,Więcej niż 250 Ha,Porzeczki,2,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2790,łódzkie,Więcej niż 250 Ha,Maliny,5,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2790,łódzkie,Więcej niż 250 Ha,Aronia,6,Detractor,50+,Średnie ogólne,???,1,0,0,1
+2790,łódzkie,Więcej niż 250 Ha,Jagody,7,Neutral,50+,Średnie ogólne,???,0,1,0,1
+2795,łódzkie,25-50 Ha,Jablka,NA,NA,50+,Wyższe rolnicze,Właściciel,NA,NA,NA,1
+2795,łódzkie,25-50 Ha,Truskawki,2,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2795,łódzkie,25-50 Ha,Sliwki,1,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2795,łódzkie,25-50 Ha,Gruszki,9,Promotor,50+,Wyższe rolnicze,Właściciel,0,0,1,1
+2795,łódzkie,25-50 Ha,Wisnie,1,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2795,łódzkie,25-50 Ha,Borowki,9,Promotor,50+,Wyższe rolnicze,Właściciel,0,0,1,1
+2795,łódzkie,25-50 Ha,Porzeczki,8,Neutral,50+,Wyższe rolnicze,Właściciel,0,1,0,1
+2795,łódzkie,25-50 Ha,Maliny,1,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2795,łódzkie,25-50 Ha,Aronia,6,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2795,łódzkie,25-50 Ha,Jagody,5,Detractor,50+,Wyższe rolnicze,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Jablka,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Truskawki,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Sliwki,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Gruszki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Wisnie,4,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Borowki,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2798,łódzkie,25-50 Ha,Maliny,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Aronia,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2798,łódzkie,25-50 Ha,Jagody,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2801,łódzkie,Więcej niż 250 Ha,Jablka,1,Detractor,<30,Średnie techniczne,Główny agronom,1,0,0,1
+2801,łódzkie,Więcej niż 250 Ha,Truskawki,9,Promotor,<30,Średnie techniczne,Główny agronom,0,0,1,1
+2801,łódzkie,Więcej niż 250 Ha,Sliwki,6,Detractor,<30,Średnie techniczne,Główny agronom,1,0,0,1
+2801,łódzkie,Więcej niż 250 Ha,Gruszki,7,Neutral,<30,Średnie techniczne,Główny agronom,0,1,0,1
+2801,łódzkie,Więcej niż 250 Ha,Wisnie,1,Detractor,<30,Średnie techniczne,Główny agronom,1,0,0,1
+2801,łódzkie,Więcej niż 250 Ha,Borowki,7,Neutral,<30,Średnie techniczne,Główny agronom,0,1,0,1
+2801,łódzkie,Więcej niż 250 Ha,Porzeczki,4,Detractor,<30,Średnie techniczne,Główny agronom,1,0,0,1
+2801,łódzkie,Więcej niż 250 Ha,Maliny,2,Detractor,<30,Średnie techniczne,Główny agronom,1,0,0,1
+2801,łódzkie,Więcej niż 250 Ha,Aronia,8,Neutral,<30,Średnie techniczne,Główny agronom,0,1,0,1
+2801,łódzkie,Więcej niż 250 Ha,Jagody,2,Detractor,<30,Średnie techniczne,Główny agronom,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Jablka,6,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Truskawki,4,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Sliwki,5,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Gruszki,8,Neutral,<30,Wyższe rolnicze,Agronom – ekspert,0,1,0,1
+2804,łódzkie,Więcej niż 250 Ha,Wisnie,5,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Borowki,9,Promotor,<30,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2804,łódzkie,Więcej niż 250 Ha,Porzeczki,4,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Maliny,10,Promotor,<30,Wyższe rolnicze,Agronom – ekspert,0,0,1,1
+2804,łódzkie,Więcej niż 250 Ha,Aronia,5,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2804,łódzkie,Więcej niż 250 Ha,Jagody,5,Detractor,<30,Wyższe rolnicze,Agronom – ekspert,1,0,0,1
+2809,małopolskie,Więcej niż 250 Ha,Jablka,7,Neutral,30-39,Wyższe,???,0,1,0,1
+2809,małopolskie,Więcej niż 250 Ha,Truskawki,10,Promotor,30-39,Wyższe,???,0,0,1,1
+2809,małopolskie,Więcej niż 250 Ha,Sliwki,6,Detractor,30-39,Wyższe,???,1,0,0,1
+2809,małopolskie,Więcej niż 250 Ha,Gruszki,4,Detractor,30-39,Wyższe,???,1,0,0,1
+2809,małopolskie,Więcej niż 250 Ha,Wisnie,10,Promotor,30-39,Wyższe,???,0,0,1,1
+2809,małopolskie,Więcej niż 250 Ha,Borowki,6,Detractor,30-39,Wyższe,???,1,0,0,1
+2809,małopolskie,Więcej niż 250 Ha,Porzeczki,2,Detractor,30-39,Wyższe,???,1,0,0,1
+2809,małopolskie,Więcej niż 250 Ha,Maliny,4,Detractor,30-39,Wyższe,???,1,0,0,1
+2809,małopolskie,Więcej niż 250 Ha,Aronia,7,Neutral,30-39,Wyższe,???,0,1,0,1
+2809,małopolskie,Więcej niż 250 Ha,Jagody,1,Detractor,30-39,Wyższe,???,1,0,0,1
+2815,małopolskie,NA,Jablka,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+2815,małopolskie,NA,Truskawki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Sliwki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Gruszki,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Wisnie,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+2815,małopolskie,NA,Borowki,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Porzeczki,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Maliny,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Aronia,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2815,małopolskie,NA,Jagody,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Jablka,3,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Truskawki,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Sliwki,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Gruszki,5,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Wisnie,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Borowki,1,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,Właściciel,0,1,0,1
+2822,małopolskie,100-250 Ha,Maliny,2,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Aronia,6,Detractor,50+,Średnie techniczne,Właściciel,1,0,0,1
+2822,małopolskie,100-250 Ha,Jagody,9,Promotor,50+,Średnie techniczne,Właściciel,0,0,1,1
+2824,małopolskie,5-25 Ha,Jablka,5,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+2824,małopolskie,5-25 Ha,Truskawki,6,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+2824,małopolskie,5-25 Ha,Sliwki,6,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+2824,małopolskie,5-25 Ha,Gruszki,7,Neutral,30-39,Średnie techniczne,Właściciel,0,1,0,1
+2824,małopolskie,5-25 Ha,Wisnie,NA,NA,30-39,Średnie techniczne,Właściciel,NA,NA,NA,1
+2824,małopolskie,5-25 Ha,Borowki,6,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+2824,małopolskie,5-25 Ha,Porzeczki,9,Promotor,30-39,Średnie techniczne,Właściciel,0,0,1,1
+2824,małopolskie,5-25 Ha,Maliny,4,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+2824,małopolskie,5-25 Ha,Aronia,10,Promotor,30-39,Średnie techniczne,Właściciel,0,0,1,1
+2824,małopolskie,5-25 Ha,Jagody,3,Detractor,30-39,Średnie techniczne,Właściciel,1,0,0,1
+2832,mazowieckie,50-100 Ha,Jablka,1,Detractor,<30,Średnie ogólne,???,1,0,0,1
+2832,mazowieckie,50-100 Ha,Truskawki,NA,NA,<30,Średnie ogólne,???,NA,NA,NA,1
+2832,mazowieckie,50-100 Ha,Sliwki,NA,NA,<30,Średnie ogólne,???,NA,NA,NA,1
+2832,mazowieckie,50-100 Ha,Gruszki,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+2832,mazowieckie,50-100 Ha,Wisnie,1,Detractor,<30,Średnie ogólne,???,1,0,0,1
+2832,mazowieckie,50-100 Ha,Borowki,2,Detractor,<30,Średnie ogólne,???,1,0,0,1
+2832,mazowieckie,50-100 Ha,Porzeczki,3,Detractor,<30,Średnie ogólne,???,1,0,0,1
+2832,mazowieckie,50-100 Ha,Maliny,8,Neutral,<30,Średnie ogólne,???,0,1,0,1
+2832,mazowieckie,50-100 Ha,Aronia,6,Detractor,<30,Średnie ogólne,???,1,0,0,1
+2832,mazowieckie,50-100 Ha,Jagody,9,Promotor,<30,Średnie ogólne,???,0,0,1,1
+2835,mazowieckie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2835,mazowieckie,Więcej niż 250 Ha,Truskawki,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2835,mazowieckie,Więcej niż 250 Ha,Sliwki,4,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2835,mazowieckie,Więcej niż 250 Ha,Gruszki,10,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2835,mazowieckie,Więcej niż 250 Ha,Wisnie,1,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2835,mazowieckie,Więcej niż 250 Ha,Borowki,NA,NA,50+,Średnie techniczne,???,NA,NA,NA,1
+2835,mazowieckie,Więcej niż 250 Ha,Porzeczki,7,Neutral,50+,Średnie techniczne,???,0,1,0,1
+2835,mazowieckie,Więcej niż 250 Ha,Maliny,2,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2835,mazowieckie,Więcej niż 250 Ha,Aronia,5,Detractor,50+,Średnie techniczne,???,1,0,0,1
+2835,mazowieckie,Więcej niż 250 Ha,Jagody,9,Promotor,50+,Średnie techniczne,???,0,0,1,1
+2837,mazowieckie,50-100 Ha,Jablka,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2837,mazowieckie,50-100 Ha,Truskawki,NA,NA,50+,Średnie techniczne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2837,mazowieckie,50-100 Ha,Sliwki,6,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2837,mazowieckie,50-100 Ha,Gruszki,7,Neutral,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2837,mazowieckie,50-100 Ha,Wisnie,5,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2837,mazowieckie,50-100 Ha,Borowki,7,Neutral,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2837,mazowieckie,50-100 Ha,Porzeczki,6,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2837,mazowieckie,50-100 Ha,Maliny,8,Neutral,50+,Średnie techniczne,Dyrektor / wicedyrektor,0,1,0,1
+2837,mazowieckie,50-100 Ha,Aronia,3,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2837,mazowieckie,50-100 Ha,Jagody,1,Detractor,50+,Średnie techniczne,Dyrektor / wicedyrektor,1,0,0,1
+2853,mazowieckie,NA,Jablka,NA,NA,50+,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2853,mazowieckie,NA,Truskawki,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2853,mazowieckie,NA,Sliwki,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2853,mazowieckie,NA,Gruszki,6,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2853,mazowieckie,NA,Wisnie,7,Neutral,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2853,mazowieckie,NA,Borowki,4,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2853,mazowieckie,NA,Porzeczki,10,Promotor,50+,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2853,mazowieckie,NA,Maliny,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2853,mazowieckie,NA,Aronia,5,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2853,mazowieckie,NA,Jagody,4,Detractor,50+,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Jablka,8,Neutral,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2862,mazowieckie,5-25 Ha,Truskawki,1,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Sliwki,10,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2862,mazowieckie,5-25 Ha,Gruszki,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Wisnie,5,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Borowki,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Porzeczki,10,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2862,mazowieckie,5-25 Ha,Maliny,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Aronia,6,Detractor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2862,mazowieckie,5-25 Ha,Jagody,10,Promotor,30-39,Średnie ogólne,Dyrektor / wicedyrektor,0,0,1,1
+2868,mazowieckie,NA,Jablka,8,Neutral,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2868,mazowieckie,NA,Truskawki,6,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2868,mazowieckie,NA,Sliwki,6,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2868,mazowieckie,NA,Gruszki,6,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2868,mazowieckie,NA,Wisnie,8,Neutral,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2868,mazowieckie,NA,Borowki,1,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2868,mazowieckie,NA,Porzeczki,2,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2868,mazowieckie,NA,Maliny,2,Detractor,<30,Średnie ogólne,Dyrektor / wicedyrektor,1,0,0,1
+2868,mazowieckie,NA,Aronia,NA,NA,<30,Średnie ogólne,Dyrektor / wicedyrektor,NA,NA,NA,1
+2868,mazowieckie,NA,Jagody,8,Neutral,<30,Średnie ogólne,Dyrektor / wicedyrektor,0,1,0,1
+2871,mazowieckie,Więcej niż 250 Ha,Jablka,7,Neutral,50+,Wyższe,Główny agronom,0,1,0,1
+2871,mazowieckie,Więcej niż 250 Ha,Truskawki,1,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2871,mazowieckie,Więcej niż 250 Ha,Sliwki,9,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2871,mazowieckie,Więcej niż 250 Ha,Gruszki,10,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2871,mazowieckie,Więcej niż 250 Ha,Wisnie,10,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2871,mazowieckie,Więcej niż 250 Ha,Borowki,6,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2871,mazowieckie,Więcej niż 250 Ha,Porzeczki,4,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2871,mazowieckie,Więcej niż 250 Ha,Maliny,10,Promotor,50+,Wyższe,Główny agronom,0,0,1,1
+2871,mazowieckie,Więcej niż 250 Ha,Aronia,6,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2871,mazowieckie,Więcej niż 250 Ha,Jagody,6,Detractor,50+,Wyższe,Główny agronom,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Jablka,1,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Truskawki,NA,NA,50+,Wyższe,Właściciel,NA,NA,NA,1
+2879,mazowieckie,Więcej niż 250 Ha,Sliwki,6,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Gruszki,3,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Wisnie,2,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Borowki,2,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Porzeczki,2,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Maliny,8,Neutral,50+,Wyższe,Właściciel,0,1,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Aronia,1,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2879,mazowieckie,Więcej niż 250 Ha,Jagody,6,Detractor,50+,Wyższe,Właściciel,1,0,0,1
+2880,mazowieckie,50-100 Ha,Jablka,1,Detractor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2880,mazowieckie,50-100 Ha,Truskawki,2,Detractor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2880,mazowieckie,50-100 Ha,Sliwki,9,Promotor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2880,mazowieckie,50-100 Ha,Gruszki,2,Detractor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2880,mazowieckie,50-100 Ha,Wisnie,10,Promotor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2880,mazowieckie,50-100 Ha,Borowki,5,Detractor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2880,mazowieckie,50-100 Ha,Porzeczki,5,Detractor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2880,mazowieckie,50-100 Ha,Maliny,2,Detractor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,1,0,0,1
+2880,mazowieckie,50-100 Ha,Aronia,10,Promotor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2880,mazowieckie,50-100 Ha,Jagody,10,Promotor,<30,Wyższe rolnicze,Dyrektor / wicedyrektor,0,0,1,1
+2882,mazowieckie,Więcej niż 250 Ha,Jablka,NA,NA,40-49,Średnie techniczne,???,NA,NA,NA,1
+2882,mazowieckie,Więcej niż 250 Ha,Truskawki,4,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Sliwki,4,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Gruszki,7,Neutral,40-49,Średnie techniczne,???,0,1,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Wisnie,5,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Borowki,1,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Porzeczki,4,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Maliny,10,Promotor,40-49,Średnie techniczne,???,0,0,1,1
+2882,mazowieckie,Więcej niż 250 Ha,Aronia,7,Neutral,40-49,Średnie techniczne,???,0,1,0,1
+2882,mazowieckie,Więcej niż 250 Ha,Jagody,1,Detractor,40-49,Średnie techniczne,???,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Jablka,6,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Truskawki,9,Promotor,30-39,Wyższe,Główny agronom,0,0,1,1
+2886,mazowieckie,Więcej niż 250 Ha,Sliwki,4,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Gruszki,3,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Wisnie,2,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Borowki,3,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Porzeczki,4,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Maliny,1,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Aronia,4,Detractor,30-39,Wyższe,Główny agronom,1,0,0,1
+2886,mazowieckie,Więcej niż 250 Ha,Jagody,NA,NA,30-39,Wyższe,Główny agronom,NA,NA,NA,1
